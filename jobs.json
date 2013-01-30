@@ -17,7 +17,7 @@
        "Report directly to the CEO.",
        "Build a team to support your efforts." ],
     "requirements": 
-     [ "You have strong experience in style-focused online retail merchandising where you\"ve curated products for many different types of shoppers.",
+     [ "You have strong experience in style-focused online retail merchandising where you've curated products for many different types of shoppers.",
        "You're metrics-driven. You track clicks, add-to-cart, and conversion rates and adjust content accordingly.",
        "Your work exudes a passion for style and design.",
        "You keep a style, design, or fashion blog and a healthy Pinterest page.",
@@ -40,7 +40,7 @@
        "Contribute articles and content to 3rd party blogs such as Fast Company, Entrepreneur Mag, etc.",
        "Create PR plans and press releases for Storenvy product and feature launches.",
        "Edit and write marketing copy and supporting app content when required.",
-       "Collaborate with the Community Manager to edit and produce long-form content for our merchant "Tips & Tricks" section that drives SEO.\n",
+       "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
        "Reports to the CEO." ],
     "requirements": 
      [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
@@ -55,7 +55,7 @@
     "apply": "default_apply" },
   { "title": "Community Support",
     "permalink": "support",
-    "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You\"ll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving "WTF" email.)\n",
+    "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
     "responsibilities": 
      [ "Be the first point of contact on all support responsibilities through our online support system and email.",
        "Respond to hundreds of shopper and merchant support requests each week.",
@@ -77,7 +77,7 @@
        "Basic graphic design skills.",
        "Experience with Desk.com is a plus.",
        "Basic HTML or CSS knowledge a huge plus." ],
-    "apply": "Send your resume, Storenvy account, links to social profile, short writing samples, and a note about yourself and why you’d be a good fit to<a href="mailto:jobs+community@storenvy.com">adam@storenvy.com</a>." },
+    "apply": "Send your resume, Storenvy account, links to social profile, short writing samples, and a note about yourself and why you’d be a good fit to<a href='mailto:jobs+community@storenvy.com'>adam@storenvy.com</a>." },
   { "title": "Frontend Engineer",
     "permalink": "frontend",
     "pitch": "We're looking for an frontend engineer that loves clean JavaScript and creating well-organized CSS to help us build \nengaging new product interfaces.\n",
@@ -92,7 +92,7 @@
        "Great communication and teamwork skills.",
        "Experience in Ruby on Rails, a plus",
        "Design skills, a plus." ],
-    "apply": "Send work samples and a note about yourself and why you’d be a good fit to<a href="mailto:jobs@storenvy.com">jobs@storenvy.com</a>." },
+    "apply": "Send work samples and a note about yourself and why you’d be a good fit to<a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
   { "title": "Ruby on Rails Engineer",
     "permalink": "rails",
     "pitch": "We're hiring an experienced Ruby on Rails Engineer to join our small development team. We are hackers and love great code + pair\nprogramming. We recently upgraded to Rails 3, Resque, Devise, and a CI server to keep the stack fresh and up to date. But we also\ncare deeply about the actual product, user experience and the way our customers use our software.\n",
@@ -109,7 +109,7 @@
     "apply": "default_apply" },
   { "title": "UI Designer",
     "permalink": "designer",
-    "pitch": "We are looking for a talented, experienced UI designer, passionate about building a great product. We\"re building a \nmulti-disciplinary team of designers focused on creating great experiences for our users. We believe in clarity over\ncomplexity with the goal of humanizing e-commerce software for the masses.\n",
+    "pitch": "We are looking for a talented, experienced UI designer, passionate about building a great product. We're building a \nmulti-disciplinary team of designers focused on creating great experiences for our users. We believe in clarity over\ncomplexity with the goal of humanizing e-commerce software for the masses.\n",
     "responsibilities": 
      [ "Work with the team to rapidly plan, design and launch innovative new features.",
        "Owning the user experience from concept to engineering to launch.",
