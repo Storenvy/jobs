@@ -30,7 +30,7 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
     "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
   { "title": "Director of Communications & PR",
     "permalink": "communications",
-    "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Communications & PR Director, your roll will be to provide a voice to that community and to the Storenvy brand. As a new position, you will focus on both writing and getting press coverage for Storenvy.\n",
+    "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Communications & PR Director, your role will be to provide a voice to that community and to the Storenvy brand. As a new position, you will focus on both writing and getting press coverage for Storenvy.\n",
     "responsibilities": 
      [ "Manage and carefully refine the Storenvy brand voice.",
        "Contribute long-form content to Storenvy's social media outlets.",
