@@ -106,7 +106,7 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
     "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
   { "title": "Ruby on Rails Engineer",
     "permalink": "rails",
-    "pitch": "We're hiring an experienced Ruby on Rails Engineer to join our small development team. We are hackers and love great code + pair\nprogramming. We recently upgraded to Rails 3, Resque, Devise, and a CI server to keep the stack fresh and up to date. But we also\ncare deeply about the actual product, user experience and the way our customers use our software.\n",
+    "pitch": "We're hiring an experienced Ruby on Rails Engineer to join our small development team. We are hackers and love great code + pair\nprogramming. But we also\ncare deeply about the actual product, user experience and the way our customers use our software.\n",
     "responsibilities": 
      [ "Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.",
        "Help ensure the smooth processing of hundreds of thousands of transactions each month." ],
