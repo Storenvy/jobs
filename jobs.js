@@ -53,6 +53,9 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "You're fun to be around and inspiring to work with.",
        "You're hungry to change the face of commerce by making it more creative and more social" ],
     "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
+  
+  
+  
   { "title": "Community Support",
     "permalink": "support",
     "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
@@ -71,13 +74,18 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "Extreme patience and the ability to remain cool under pressure.",
        "Strong ability to stay on track while constanly multi-tasking.",
        "Willing to put out fires on evenings, weekends, and holidays.",
-       "A love for people and for 'Inbox Zero'.",
+       "A love for people and for 'Inbox Zero.'",
        "Extensive experience as an online merchant.",
        "Ability to understand technical questions merchants may ask about customizing his/her store.",
        "Basic graphic design skills.",
-       "Experience with Desk.com is a plus.",
+       "Experience with Desk.com a plus.",
        "Basic HTML or CSS knowledge a huge plus." ],
-    "apply": "Send your resume, Storenvy account, links to social profile, short writing samples, and a note about yourself and why you’d be a good fit to<a href='mailto:jobs+community@storenvy.com'>adam@storenvy.com</a>." },
+       
+       
+    "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
+    },
+ 
+  
   { "title": "Frontend Engineer",
     "permalink": "frontend",
     "pitch": "We are looking for a front end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility, and progressive enhancement.  You should have a solid background with JavaScript and CSS, and understand how tools like jQuery, Backbone, and SCSS complement them.  You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
