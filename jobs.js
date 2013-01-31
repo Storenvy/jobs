@@ -11,22 +11,22 @@ _StorenvyJobs({
       "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Director of Marketplace & Merchandising, you\'ll be responsible for the product selection and creative content aspects of the shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
       "responsibilities": 
        [ "Manage the online retail brand of Storenvy.",
-         "Drive ecommerce and focus on increasing transaction volume.",
+         "Drive e-commerce and focus on increasing transaction volume.",
          "Trend forecasting and shopper style-profiling.",
-         "Hand-select products for many different types of user homepages (men, women, fashionistas, teenagers, hipsters, etc)",
+         "Hand-select products for many different types of user homepages (men, women, fashionistas, teenagers, hipsters, etc.).",
          "Create and curate written & visual content for daily shopping emails to millions of customers of different segments.",
          "Plan online retail events such as holiday sales.",
-         "Manage campaigns and popup shops.",
-         "Help establish Storenvy as a leading destination for fashion, design, music, art, and other creative categories.",
-         "Oversee photo shoots, styling, and design for online retail look-books.",
-         "Work with PR to produce gift guide and product pitches for publications.",
+         "Manage campaigns and pop-up shops.",
+         "Help establish Storenvy as a leading destination for fashion, design, music, art and other creative categories.",
+         "Oversee photo shoots, styling and design for online retail look-books.",
+         "Work with PR to produce gift guides and other product pitches for publications.",
          "Prepare regular reports to demonstrate shopping trends and sales performance.",
          "Work with Product Managers to evolve the Storenvy shopping experience.",
          "Report directly to the CEO.",
          "Build a team to support your efforts." ],
       "requirements": 
        [ "You have strong experience in style-focused online retail merchandising where you've curated products for many different types of shoppers.",
-         "You're metrics-driven. You track clicks, add-to-cart, and conversion rates and adjust content accordingly.",
+         "You're metrics-driven. You track clicks, add-to-cart and conversion rates and adjust content accordingly.",
          "Your work exudes a passion for style and design.",
          "You keep a style, design, or fashion blog and a healthy Pinterest page.",
          "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
@@ -46,14 +46,14 @@ _StorenvyJobs({
     /*  Director of Communications & PR  */
     { "title": "Director of Communications & PR",
       "permalink": "communications",
-      "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Communications & PR Director, your role will be to provide a voice to that community and to the Storenvy brand. As a new position, you will focus on both writing and getting press coverage for Storenvy.\n",
+      "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.\n",
       "responsibilities": 
        [ "Manage and carefully refine the Storenvy brand voice.",
-         "Contribute long-form content to Storenvy's social media outlets.",
+         "Contribute content to Storenvy's social media outlets.",
          "Work with Merchandising Director to assemble shopping trend pitches for publications.",
-         "Pitch and get coverage for human-interest stories within the Storenvy merchant community in tech, small business, and consumer publications.\n",
-         "Manage relationships and pitch content to to bloggers.",
-         "Contribute articles and content to 3rd party blogs such as Fast Company, Entrepreneur Mag, etc.",
+         "Pitch and get coverage for human-interest stories within the Storenvy merchant community in tech, small business and consumer publications.\n",
+         "Manage relationships and pitch content to bloggers.",
+         "Contribute articles and content to 3rd party media outlets such as Fast Company, Entrepreneur Mag, etc.",
          "Create PR plans and press releases for Storenvy product and feature launches.",
          "Edit and write marketing copy and supporting app content when required.",
          "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
@@ -61,13 +61,13 @@ _StorenvyJobs({
       "requirements": 
        [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
          "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
-         "You have experience and relevant connections at consumer news publications.",
-         "A passion for fashion, shopping, design, art, and creative small business.",
+         "You have experience working with and relevant connections at consumer news publications.",
+         "A passion for fashion, shopping, design, art and creative small business.",
          "You like taking on a lot of responsibility and are cool under pressure.",
          "You thrive in a startup environment with limited resources and huge potential.",
          "You start impactful projects without having to be asked.",
          "You're fun to be around and inspiring to work with.",
-         "You're hungry to change the face of commerce by making it more creative and more social" ],
+         "You're hungry to change the face of commerce by making it more creative and more social." ],
       "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." }
   ],
   
@@ -80,14 +80,14 @@ _StorenvyJobs({
     /*  Community Support  */
     { "title": "Community Support",
       "permalink": "support",
-      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
+      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
       "responsibilities": 
        [ "Be the first point of contact on all support responsibilities through our online support system and email.",
          "Respond to hundreds of shopper and merchant support requests each week.",
          "Work closely with the Community Manager to quickly care for customer concerns.",
          "Quickly respond to customer support inquiries in less than 24 hours.",
          "Create or recommend support systems and flows that cut down on the customer support workload.",
-         "Create support articles, blog posts, and screencasts in response to common support requests.",
+         "Create support articles, blog posts and screencasts in response to common support requests.",
          "Work with the product, engineering and design teams to address user concerns.",
          "Prep support articles for upcoming feature releases." ],
       "requirements": 
@@ -95,13 +95,13 @@ _StorenvyJobs({
          "An uncanny ability to turn a negative situation into a positive one.",
          "Extreme patience and the ability to remain cool under pressure.",
          "Strong ability to stay on track while constanly multi-tasking.",
-         "Willing to put out fires on evenings, weekends, and holidays.",
-         "A love for people and for 'Inbox Zero.'",
+         "Willingness to put out fires on evenings, weekends and holidays.",
+         "A love for people and for Inbox Zero.",
          "Extensive experience as an online merchant.",
          "Ability to understand technical questions merchants may ask about customizing his/her store.",
          "Basic graphic design skills.",
          "Experience with Desk.com a plus.",
-         "Basic HTML or CSS knowledge a huge plus." ],
+         "Basic HTML/CSS knowledge a huge plus." ],
       "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
       }
   ],
@@ -113,23 +113,23 @@ _StorenvyJobs({
   "Engineering": [
 
     /*  Frontend Engineer  */
-    { "title": "Frontend Engineer",
+    { "title": "Front-end Engineer",
       "permalink": "frontend",
-      "pitch": "We are looking for a front end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility, and progressive enhancement.  You should have a solid background with JavaScript and CSS, and understand how tools like jQuery, Backbone, and SCSS complement them.  You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
+      "pitch": "We are looking for a front-end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility and progressive enhancement.  You should have a solid background with JavaScript and CSS and understand how tools like jQuery, Backbone and SCSS complement them. You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
       "responsibilities": 
        [ "Build new user interfaces using jQuery, Backbone, SCSS, etc.",
-         "Take designs from PSD/Fireworks to HTML, CSS, and JavaScript.",
-         "Work with backend engineers to implement application logic.",
-         "Write performant, efficient frontend code.",
-         "Monitor frontend performance and make improvements.",
+         "Take designs from PSD/Fireworks to HTML, CSS and JavaScript.",
+         "Work with back-end engineers to implement application logic.",
+         "Write performant, efficient front-end code.",
+         "Monitor front-end performance and make improvements.",
          "Implement analytics tools to understand how users interact with the application."],
       "requirements": 
-       [ "3+ years experience writing great frontend code.",
+       [ "3+ years experience writing great front-end code.",
          "Strong competency in JavaScript and CSS.",
-         "Experience with Git/Github",
+         "Experience with Git/Github.",
          "Great communication and teamwork skills.",
-         "Experience in Ruby on Rails, a plus",
-         "Design skills, a plus." ],
+         "Experience in Ruby on Rails a plus.",
+         "Design skills a plus." ],
       "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs+frontend@storenvy.com</a>." },
 
     /*  Ruby on Rails Engineer  */
@@ -143,10 +143,10 @@ _StorenvyJobs({
        [ "4+ years experience test-driven Ruby on Rails developer.",
          "You should be able to crank out solid code quickly and meet deadlines.",
          "Great communication and teamwork skills.",
-         "API design experience, a plus.",
-         "Facebook app experience, a plus.",
-         "Mobile experience, a plus." ],
-      "apply": "Send your GitHub account, links to your work, and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+rails@storenvy.com</a>." }
+         "API design experience a plus.",
+         "Facebook app experience a plus.",
+         "Mobile experience a plus." ],
+      "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+rails@storenvy.com</a>." }
   ],
 
   
@@ -161,13 +161,13 @@ _StorenvyJobs({
       "pitch": "We are looking for a talented, experienced UI designer, passionate about building a great product. We're building a \nmulti-disciplinary team of designers focused on creating great experiences for our users. We believe in clarity over\ncomplexity with the goal of humanizing e-commerce software for the masses.\n",
       "responsibilities": 
        [ "Work with the team to rapidly plan, design and launch innovative new features.",
-         "Owning the user experience from concept to engineering to launch.",
+         "Own the user experience from concept to engineering to launch.",
          "Be comfortable designing for multiple platforms, including mobile web and iOS." ],
       "requirements": 
        [ "A proven background in design with a solid portfolio that demonstrates relevant abilities.",
          "Experience designing for consumer and social web products.",
          "Great communication and teamwork skills.",
          "A keen eye for details and pixel perfection." ],
-      "apply": "Send work samples, a link to your Dribbble account, and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>." }
+      "apply": "Send work samples, a link to your Dribbble account and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>." }
   ]
 });
