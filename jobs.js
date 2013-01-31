@@ -1,4 +1,7 @@
-_StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
+_StorenvyJobs( [
+
+// Merchanding & Content - Merchandising Director
+{ "title": "Director of Marketplace & Merchandising",
     "permalink": "merchandising",
     "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Director of Marketplace & Merchandising, you\"ll be responsible for the product selection and creative content aspects of the shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
     "responsibilities": 
@@ -28,6 +31,8 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "You're fun to be around and inspiring to work with.",
        "You're passionate about to changing the face of commerce by making it more creative and more social." ],
     "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
+  
+  // Marketing - Director of Communications
   { "title": "Director of Communications & PR",
     "permalink": "communications",
     "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Communications & PR Director, your role will be to provide a voice to that community and to the Storenvy brand. As a new position, you will focus on both writing and getting press coverage for Storenvy.\n",
@@ -55,7 +60,7 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
     "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
   
   
-  
+  // Community - Community Support
   { "title": "Community Support",
     "permalink": "support",
     "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
@@ -80,12 +85,10 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "Basic graphic design skills.",
        "Experience with Desk.com a plus.",
        "Basic HTML or CSS knowledge a huge plus." ],
-       
-       
     "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
     },
  
-  
+ // Engineering -Frontend Engineer 
   { "title": "Frontend Engineer",
     "permalink": "frontend",
     "pitch": "We are looking for a front end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility, and progressive enhancement.  You should have a solid background with JavaScript and CSS, and understand how tools like jQuery, Backbone, and SCSS complement them.  You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
@@ -117,7 +120,9 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "API design experience, a plus.",
        "Facebook app experience, a plus.",
        "Mobile experience, a plus." ],
-    "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." },
+    "apply": "Send your GitHub account, links to your work, and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+frontend@storenvy.com</a>." },
+  
+  // Design - UI Designer
   { "title": "UI Designer",
     "permalink": "designer",
     "pitch": "We are looking for a talented, experienced UI designer, passionate about building a great product. We're building a \nmulti-disciplinary team of designers focused on creating great experiences for our users. We believe in clarity over\ncomplexity with the goal of humanizing e-commerce software for the masses.\n",
@@ -130,4 +135,4 @@ _StorenvyJobs( [ { "title": "Director of Marketplace & Merchandising",
        "Experience designing for consumer and social web products.",
        "Great communication and teamwork skills.",
        "A keen eye for details and pixel perfection." ],
-    "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." } ] );
+    "apply": "Send work samples, a link to your Dribbble account, and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>." } ] );
