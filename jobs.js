@@ -35,7 +35,7 @@ _StorenvyJobs({
          "You ask for forgiveness, not permission.",
          "You're fun to be around and inspiring to work with.",
          "You're passionate about to changing the face of commerce by making it more creative and more social." ],
-      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." }
+      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+merchandising@storenvy.com'>jobs+merchandising@storenvy.com</a>." }
   ],
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
@@ -72,7 +72,7 @@ _StorenvyJobs({
          "You start impactful projects without having to be asked.",
          "You're fun to be around and inspiring to work with.",
          "You're hungry to change the face of commerce by making it more creative and more social." ],
-      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs@storenvy.com</a>." }
+      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." }
   ],
   
   
@@ -95,7 +95,7 @@ _StorenvyJobs({
          "Work with the product, engineering and design teams to address user concerns.",
          "Prep support articles for upcoming feature releases." ],
       "requirements": 
-       [ "Excellent written communication skills and a stickler for grammar.",
+       [ "Excellent written communication skills and you're a stickler for grammar.",
          "An uncanny ability to turn a negative situation into a positive one.",
          "Extreme patience and the ability to remain cool under pressure.",
          "Strong ability to stay on track while constanly multi-tasking.",
@@ -119,7 +119,7 @@ _StorenvyJobs({
     /*  Frontend Engineer  */
     { "title": "Front-end Engineer",
       "permalink": "frontend",
-      "pitch": "We are looking for a front-end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility and progressive enhancement.  You should have a solid background with JavaScript and CSS and understand how tools like jQuery, Backbone and SCSS complement them. You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a front-end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility and progressive enhancement.  You should have a solid background with JavaScript and CSS and understand how tools like jQuery, Backbone and SCSS complement them. You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
       "responsibilities": 
        [ "Build new user interfaces using jQuery, Backbone, SCSS, etc.",
          "Take designs from PSD/Fireworks to HTML, CSS and JavaScript.",
@@ -134,12 +134,12 @@ _StorenvyJobs({
          "Great communication and teamwork skills.",
          "Experience in Ruby on Rails a plus.",
          "Design skills a plus." ],
-      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs@storenvy.com'>jobs+frontend@storenvy.com</a>." },
+      "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+frontend@storenvy.com</a>." },
 
     /*  Ruby on Rails Engineer  */
     { "title": "Ruby on Rails Engineer",
       "permalink": "rails",
-      "pitch": "We're hiring an experienced Ruby on Rails Engineer to join our small development team. We are hackers and love great code + pair\nprogramming. But we also\ncare deeply about the actual product, user experience and the way our customers use our software.\n",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small, but growing development team. We are hackers and love great code + pair programming. But we also care deeply about the actual product, user experience and the way our customers use our software.",
       "responsibilities": 
        [ "Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.",
          "Help ensure the smooth processing of hundreds of thousands of transactions each month." ],
@@ -162,7 +162,7 @@ _StorenvyJobs({
     /*  UI Designer  */
     { "title": "UI Designer",
       "permalink": "designer",
-      "pitch": "We are looking for a talented, experienced UI designer, passionate about building a great product. We're building a \nmulti-disciplinary team of designers focused on creating great experiences for our users. We believe in clarity over\ncomplexity with the goal of humanizing e-commerce software for the masses.\n",
+      "pitch": "Storenvy is a early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
       "responsibilities": 
        [ "Work with the team to rapidly plan, design and launch innovative new features.",
          "Own the user experience from concept to engineering to launch.",
