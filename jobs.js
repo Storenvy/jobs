@@ -46,7 +46,8 @@ _StorenvyJobs({
     /*  Director of Communications & PR  */
     { "title": "Director of Communications & PR",
       "permalink": "communications",
-      "pitch": "Storenvy is home to almost 30,000 creative merchants and 700,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.\n",
+      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.\n",
+      
       "responsibilities": 
        [ "Manage and carefully refine the Storenvy brand voice.",
          "Contribute content to Storenvy's social media outlets.",
@@ -57,10 +58,13 @@ _StorenvyJobs({
          "Create PR plans and press releases for Storenvy product and feature launches.",
          "Edit and write marketing copy and supporting app content when required.",
          "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
-         "Reports to the CEO." ],
+         "Report directly to the CEO." ],
+      
       "requirements": 
        [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
          "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
+         "You’ve worked in communications or PR at a world-class company or startup.",
+         "You have experience and relevant connections at national consumer, tech, or small business news publications.",
          "You have experience working with and relevant connections at consumer news publications.",
          "A passion for fashion, shopping, design, art and creative small business.",
          "You like taking on a lot of responsibility and are cool under pressure.",
