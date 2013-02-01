@@ -1,5 +1,28 @@
 _StorenvyJobs({
+  "Product" : [
+    "title": "Product Manager, Merchant Tools",
+    "permalink": "prod-merchant",
+    "pitch": "Storenvy is a product-driven company and brings a consumer Internet approach to e-commerce tools to empower the next generation of online store owners. We’re looking for a Product Manager who can think like a consumer to oversee the merchant side of the Storenvy product suite. This includes the storefront builder, the store admin panel, the store Facebook app, and new products such as native mobile apps for managing your store.\n\nYou will lead the merchant tools team of designers and engineers through planning and execution of all new merchant features. You should have fantastic product instincts and love great usability and design. You should have a health distaste for complicated or “enterprise-y” commerce software. Storenvy is bringing storefronts to the people and you’re going to be a big part of that. This is a new senior role and reports directly to the CEO.",
+    "responsibilites":
+      [
+"Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.",
+"Spearhead new native mobile app projects.",
+"Instrument, test, and measure all important elements of Storenvy Stores.",
+"Conduct split-tests within the application to test assumptions.",
+"Provide weekly reports of important app metrics.",
+"Set launch timelines and deadlines with technical and design teams."
 
+      ],
+    "skills": [
+      "Experience as a product manager for a high-demand consumer web application.",
+"Experience leading a team.",
+"You have a strong innate sense of usability and product.",
+"You have a deep appreciation for good design and can tell the difference between and “good enough” and “great” design.",
+"You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
+"You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
+      ],
+    "apply": "Send your resume, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
+  ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                             Merchandising & Content
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
