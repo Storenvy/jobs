@@ -1,5 +1,9 @@
 _StorenvyJobs({
+  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
+                                  Product
+  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Product" : [{
+  /* Product Manager, Marketplace */
     "title": "Product Manager, Merchant Tools",
     "permalink": "prod-merchant",
     "pitch": "Storenvy is an early-stage product-driven company and brings a consumer Internet approach to e-commerce tools to empower the next generation of online store owners. We’re looking for an experienced Product Manager who can think like a consumer to oversee the merchant side of the Storenvy product suite. This includes the storefront builder, the store admin panel, the store Facebook app, and new products such as native mobile apps for managing your store.\n\nThis is a new senior role and reports directly to the CEO. You will lead the merchant tools team of designers and engineers through planning and execution of all new merchant features. You should have fantastic product instincts and love great usability and design. You should have a health distaste for complicated or “enterprise-y” commerce software. Storenvy is bringing storefronts to the people and you’re going to be a big part of that.\n\nSenior candidates will be considered for a VP or Product role.",
@@ -12,7 +16,6 @@ _StorenvyJobs({
 "Request user testing and UX research information to guide product development.",
 "Provide weekly reports of important app metrics.",
 "Set launch timelines and deadlines with technical and design teams."
-
       ],
     "requirements": [
       "Experience as a product manager for a high-demand consumer web application.",
@@ -22,7 +25,29 @@ _StorenvyJobs({
 "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
 "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
       ],
-    "apply": "Send your resume, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
+    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
+  },
+  
+  {
+    
+   /*  Product Manager, Marketplace  */
+    "title": "Product Manager, Marketplace",
+    "permalink": "prod-marketplace",
+    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 30,000 independent businesses. As the Product Manager in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and ahs already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
+    "responsibilities": [
+'Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.',
+'Run daily product meetings to keep teams moving forward according to schedule.',
+'Spearhead new native mobile app projects.',
+'Instrument, test, and measure all important elements of Storenvy Stores.',
+'Provide weekly reports of important app metrics.'
+    ],
+    "requirements": [
+      "Experience as a product manager for a high-demand consumer web application.",
+      "You have a strong innate sense of user experience and product.",
+      "You like to shop and understand how women and teenage girls shop online.",
+      "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics."
+    ],
+    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
   }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
@@ -71,8 +96,7 @@ _StorenvyJobs({
     /*  Director of Communications & PR  */
     { "title": "Director of Communications & PR",
       "permalink": "communications",
-      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.\n",
-      
+      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.",
       "responsibilities": 
        [ "Manage and carefully refine the Storenvy brand voice.",
          "Contribute content to Storenvy's social media outlets.",
