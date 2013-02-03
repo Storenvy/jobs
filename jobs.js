@@ -197,7 +197,7 @@ _StorenvyJobs({
       "permalink": "frontend",
       "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a front-end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility and progressive enhancement.  You should have a solid background with JavaScript and CSS and understand how tools like jQuery, Backbone and SCSS complement them. You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
       "responsibilities": 
-       [ "Build new user interfaces using jQuery, Backbone, SCSS, etc.",
+       [ "Work with our small team of front-end and back-end engineers to build new user interfaces using jQuery, Backbone, SCSS, etc.",
          "Take designs from PSD/Fireworks to HTML, CSS and JavaScript.",
          "Work with back-end engineers to implement application logic.",
          "Write performant, efficient front-end code.",
@@ -212,21 +212,26 @@ _StorenvyJobs({
          "Design skills a plus." ],
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+frontend@storenvy.com</a>." },
 
-    /*  Ruby on Rails Engineer  */
-    { "title": "Ruby on Rails Engineer",
-      "permalink": "rails",
-      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small, but growing development team. We are hackers and love great code + pair programming. But we also care deeply about the actual product, user experience and the way our customers use our software.",
+    /* Senior Rails Engineer  */
+    { "title": "Senior Rails Engineer",
+      "permalink": "sr-rails",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by hackers and love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Senior Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. You will make important technical decisions and ensure the scalability and performance of Storenvy’s applications.",
       "responsibilities": 
-       [ "Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.",
-         "Help ensure the smooth processing of hundreds of thousands of transactions each month." ],
+       [ 
+'Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.',
+'Write robust, scalable, performant test-driven code.',
+'Solve complex engineering and “big data” problems.',
+'Help ensure the smooth processing of millions of dollars each month.'
+         ],
       "requirements": 
-       [ "4+ years experience test-driven Ruby on Rails developer.",
-         "You should be able to crank out solid code quickly and meet deadlines.",
-         "Great communication and teamwork skills.",
-         "API design experience a plus.",
-         "Facebook app experience a plus.",
-         "Mobile experience a plus." ],
-      "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+rails@storenvy.com</a>." }
+       [
+         '4+ years experience test-driven Ruby on Rails developer.',
+         'Experience scaling with Ruby, MySQL, and Redis.',
+         'The ability to meet deadlines with rock-solid code.',
+         'Great communication and teamwork skills.',
+         'Mobile experience, a plus.'
+      ],
+      "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
   ],
 
   
