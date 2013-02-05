@@ -172,7 +172,7 @@ _StorenvyJobs({
           "The ability to work autonomously and recognize opportunities on your own.",
           "Strong interpersonal and presentation skills."
         ],
-        "pitch" : "Send your LinkedIn profile and a note about yourself to <a href='mailto:jobs+bizdev@storenvy.com'>jobs+bizdev@storenvy.com</a>."        
+        "apply" : "Send your LinkedIn profile and a note about yourself to <a href='mailto:jobs+bizdev@storenvy.com'>jobs+bizdev@storenvy.com</a>."        
       }
   ],
   
