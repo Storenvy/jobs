@@ -89,9 +89,9 @@ _StorenvyJobs({
   ],
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Marketing
+                                    Marketing & Biz Dev
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Marketing": [
+  "Marketing & Biz Dev": [
 
     /*  Director of Communications & PR  */
     { "title": "Director of Communications & PR",
@@ -121,7 +121,27 @@ _StorenvyJobs({
          "You start impactful projects without having to be asked.",
          "You're fun to be around and inspiring to work with.",
          "You're hungry to change the face of commerce by making it more creative and more social." ],
-      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." }
+      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." }
+      
+      {
+        "title": "Business Development",
+        "permalink": "biz-dev",
+        "pitch" : "Storenvy is a one-of-a kind e-commerce platform boasting over 30,000 storefronts from creative businesses. In the Business Role at Storenvy, you’ll be in charge of forging external partnerships and cultivating relationships with key users of our platforms. This will involve working strategic partners such as members of the fashion and music industries as well as other tech companies, local organizations and small businesses.\n\nThis a new role at the company and reports directly to the CEO.",
+        "responsibilities" : [
+          'Recruit and work with key merchants such as popular musicians or designers who use Storenvy’s store platform.',
+          'Partner with other fashion or design companies or celebrities to launch curated pop-up shops or special events.',
+          'Create partnerships with other commerce software companies in order to launch integrations that offer more features to our merchants.',
+          'Form and maintain relationships with other companies in the retail, small business, design, fashion, and music space.'
+        ],
+        "requirements" : [
+          "Connections in the music, entertainment, and/or fashion space.",
+          "A strong understanding of the music and fashion worlds.",
+          "A background in Business Development at a rapidly-growing company.",
+          "The ability to work autonomously and recognize opportunities on your own.",
+          "Strong interpersonal and presentation skills."
+        ],
+        "pitch" : "Send your LinkedIn profile and a note about yourself to <a href='mailto:jobs+bizdev@storenvy.com'>jobs+bizdev@storenvy.com</a>."        
+      }
   ],
   
   
