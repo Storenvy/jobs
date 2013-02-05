@@ -231,7 +231,28 @@ _StorenvyJobs({
          "Experience in Ruby on Rails a plus.",
          "Design skills a plus." ],
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+frontend@storenvy.com'>jobs+frontend@storenvy.com</a>." },
-
+    {
+      "title" : "Analytics & Internal Tools Engineer",
+      "permalink" : "analytics",
+      "pitch" : "This is a new role at Storenvy. You will focus on making Storenvy team more informed and more productive by building internal tracking and reporting tools that give us deep insight into how users are engaging with our product and tools and flows that speed up product development processes.",
+      "responsibilities" : [
+        "Build internal metrics tools to help us better understand customer usage and conversion information.",
+        "Design application logic that ensures that the highest-performing products are seen by the right people at the right time.",
+        "Build a rich data set of meta data about the 1,000,000 products in the Storenvy catalog to better understand what kind of user purchases each item.",
+        "Build merchant-facing analytics tools to help sellers better understand their customers’ buying patterns.",
+        "Implement daily report emails that notify the team of current metrics.",
+        "Improve our current CI server and testing infrastructure."
+      ],
+      "requirements" : [
+        "A proven track record working with big data and analytics.",
+        "Deep experience with MySQL, Redis, and event tracking.",
+        "3+ years working with Ruby and Rails",
+        "Great teamwork and communication skills.",
+        "The ability to be productive and happy while working autonomously."
+      ],
+      "apply" : "Send a link to your Github and LinkedIn profiles, links to your previous work, and a note about yourself to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
+      
+    },
     /* Senior Rails Engineer  */
     { "title": "Senior Rails Engineer",
       "permalink": "sr-rails",
