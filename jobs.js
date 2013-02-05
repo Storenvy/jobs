@@ -312,7 +312,7 @@ _StorenvyJobs({
     {
       "title" : "UX Designer & Researcher",
       "permalink" : "ux",
-      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within the company. As the first dedicated UX designer and researcher at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features.\n\nSome the areas you will focus on include:"
+      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within the company. As the first dedicated UX designer and researcher at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features.\n\nSome the areas you will focus on include:",
       "responsibilities" : [
         "Shopping: Design product and user flows for Storenvy’s groundbreaking social shopping experience.",
         "Mobile: Design the UX for the upcoming Storenvy mobile apps.",
