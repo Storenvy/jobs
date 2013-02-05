@@ -124,12 +124,17 @@ _StorenvyJobs({
       "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
     ],
     
+  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
+                                    Business
+  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
+      
+    
     "Business" : [
       
       {
         "title" : "Head of Talent",
         "permalink" : "talent",
-        "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from 7 to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.",
+        "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from 7 to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.\n\n3-6 month contracts will be considered.",
         "responsibilities" : [
           "Recruit 10+ engineers to the Storenvy development team.",
           "Recruit shopping-savvy designers to enhance the Storenvy shopping experience and to bring it to mobile devices.",
