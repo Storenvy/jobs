@@ -121,7 +121,7 @@ _StorenvyJobs({
          "You start impactful projects without having to be asked.",
          "You're fun to be around and inspiring to work with.",
          "You're hungry to change the face of commerce by making it more creative and more social." ],
-      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." }
+      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
       
       {
         "title": "Business Development",
@@ -238,18 +238,18 @@ _StorenvyJobs({
       "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by hackers and love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Senior Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. You will make important technical decisions and ensure the scalability and performance of Storenvy’s applications.\n\nHere are some of the complex engineering challenges we are working on:",
       "responsibilities": 
        [ 
-'Selling: Constantly evolve the experience of creating an online store.',
-'Discovery: Allow people to find products they love through social curation, algorithmic recommendation engines, and powerful search and filtering tools.',
-'Recommendation system: Produce personalized recommendations based on users’ friend activity and behavior.',
-'Social: Integrate tightly with social networks or make improvements to our popular Facebook app.',
-'Payments: Process millions of dollars each month securely and safely.',
-'API: Enable stores to power up through third party integrations.',
-'News feeds: Help surface the most relevant content created and curated by Storenvy shoppers.',
-'Mobile: Work on the upcoming Storenvy mobile apps.',
-'DevOps: Design and maintain infrastructure and code that can keep up with our fast growth.',
-'Drive Growth: Measure and assess user engagement via analytics. Create tools that help merchants become more successful.',
-'Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.'
-],
+       'Selling: Constantly evolve the experience of creating an online store.',
+       'Discovery: Allow people to find products they love through social curation, algorithmic recommendation engines, and powerful search and filtering tools.',
+       'Recommendation system: Produce personalized recommendations based on users’ friend activity and behavior.',
+       'Social: Integrate tightly with social networks or make improvements to our popular Facebook app.',
+       'Payments: Process millions of dollars each month securely and safely.',
+       'API: Enable stores to power up through third party integrations.',
+       'News feeds: Help surface the most relevant content created and curated by Storenvy shoppers.',
+       'Mobile: Work on the upcoming Storenvy mobile apps.',
+       'DevOps: Design and maintain infrastructure and code that can keep up with our fast growth.',
+       'Drive Growth: Measure and assess user engagement via analytics. Create tools that help merchants become more successful.',
+       'Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.'
+      ],
       "requirements": 
        [
          '4+ years experience test-driven Ruby on Rails developer.',
