@@ -25,7 +25,7 @@ _StorenvyJobs({
 "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
 "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
       ],
-    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
+    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   },
   
   {
@@ -47,7 +47,7 @@ _StorenvyJobs({
       "You like to shop and understand how women and teenage girls shop online.",
       "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics."
     ],
-    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='jobs+product'>jobs+product@storenvy.com</a>"
+    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
