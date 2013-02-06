@@ -50,6 +50,44 @@ _StorenvyJobs({
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   }
   ],
+  
+
+  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
+                                    Marketing
+  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
+  "Marketing": [
+
+    /*  Director of Communications & PR  */
+    { "title": "Director of Communications & PR",
+      "permalink": "communications",
+      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.",
+      "responsibilities": 
+       [ "Manage and carefully refine the Storenvy brand voice.",
+         "Contribute content to Storenvy's social media outlets.",
+         "Work with Merchandising Director to assemble shopping trend pitches for publications.",
+         "Pitch and get coverage for human-interest stories within the Storenvy merchant community in tech, small business and consumer publications.\n",
+         "Manage relationships and pitch content to bloggers.",
+         "Contribute articles and content to 3rd party media outlets such as Fast Company, Entrepreneur Mag, etc.",
+         "Create PR plans and press releases for Storenvy product and feature launches.",
+         "Edit and write marketing copy and supporting app content when required.",
+         "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
+         "Report directly to the CEO." ],
+      
+      "requirements": 
+       [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
+         "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
+         "You’ve worked in communications or PR at a world-class company or startup.",
+         "You have experience and relevant connections at national consumer, tech, or small business news publications.",
+         "You have experience working with and relevant connections at consumer news publications.",
+         "A passion for fashion, shopping, design, art and creative small business.",
+         "You like taking on a lot of responsibility and are cool under pressure.",
+         "You thrive in a startup environment with limited resources and huge potential.",
+         "You start impactful projects without having to be asked.",
+         "You're fun to be around and inspiring to work with.",
+         "You're hungry to change the face of commerce by making it more creative and more social." ],
+      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
+    ],
+    
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                             Merchandising
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
@@ -88,42 +126,6 @@ _StorenvyJobs({
       "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+merchandising@storenvy.com'>jobs+merchandising@storenvy.com</a>." }
   ],
 
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Marketing
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Marketing": [
-
-    /*  Director of Communications & PR  */
-    { "title": "Director of Communications & PR",
-      "permalink": "communications",
-      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.",
-      "responsibilities": 
-       [ "Manage and carefully refine the Storenvy brand voice.",
-         "Contribute content to Storenvy's social media outlets.",
-         "Work with Merchandising Director to assemble shopping trend pitches for publications.",
-         "Pitch and get coverage for human-interest stories within the Storenvy merchant community in tech, small business and consumer publications.\n",
-         "Manage relationships and pitch content to bloggers.",
-         "Contribute articles and content to 3rd party media outlets such as Fast Company, Entrepreneur Mag, etc.",
-         "Create PR plans and press releases for Storenvy product and feature launches.",
-         "Edit and write marketing copy and supporting app content when required.",
-         "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
-         "Report directly to the CEO." ],
-      
-      "requirements": 
-       [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
-         "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
-         "You’ve worked in communications or PR at a world-class company or startup.",
-         "You have experience and relevant connections at national consumer, tech, or small business news publications.",
-         "You have experience working with and relevant connections at consumer news publications.",
-         "A passion for fashion, shopping, design, art and creative small business.",
-         "You like taking on a lot of responsibility and are cool under pressure.",
-         "You thrive in a startup environment with limited resources and huge potential.",
-         "You start impactful projects without having to be asked.",
-         "You're fun to be around and inspiring to work with.",
-         "You're hungry to change the face of commerce by making it more creative and more social." ],
-      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
-    ],
-    
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                       Design
