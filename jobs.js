@@ -51,9 +51,9 @@ _StorenvyJobs({
   }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                            Merchandising & Content
+                            Merchandising
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Merchandising & Content": [
+  "Merchandising": [
 
     /*  Director of Marketplace & Merchandising  */
     { "title": "Director of Marketplace & Merchandising",
