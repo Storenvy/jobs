@@ -91,7 +91,7 @@ _StorenvyJobs({
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                     Marketing
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Marketing & Biz Dev": [
+  "Marketing": [
 
     /*  Director of Communications & PR  */
     { "title": "Director of Communications & PR",
