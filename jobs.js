@@ -124,6 +124,79 @@ _StorenvyJobs({
       "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
     ],
     
+
+  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
+                                      Design
+  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
+  "Design": [
+    /* Creative Director */
+    {
+      "title" : "Creative Director",
+      "permalink" : "creative-director",
+      "pitch" : "Storenvy is seeking an experienced Creative Director to manage it’s visual brand experience for both merchants and consumers. As the Creative Director, you will function as the lead graphic designer creating all important graphic elements necessary for marketing or branding uses. You will work with UI designers to visually develop the Storenvy shopping brand into a leading destination shopping experience. This is a new role at the company and reports directly to the CEO. Extremely creative individuals welcome.",
+      "responsibilities" : [
+         'Create industry-leading graphic artwork for contexts such as marketing pages, pop-up shops, important blog posts, shopping newsletters, and more.',
+         'Participate in photo shoots to source photos for graphic projects.',
+         'Create a brand guide and style guide to refine the Storenvy brand.',
+         'Collaborate with UI designers to keep the brand experience consistent throughout the application.',
+         'Lead the creative process on all special projects such as pop-ups, events, and marketing.'
+         ],
+      'requirements': [
+        'Experience as the lead creative within a company.',
+        'Experience working with a team of designers.',
+        'A very strong branding portfolio including illustration and visual design that incorporates photography.',
+        'Strong communications skills and excellent teamwork skills.',
+        'You’re nice and people like working with you.'
+       ],
+       "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
+    },
+    
+    {
+      "title" : "UX Designer & Researcher",
+      "permalink" : "ux",
+      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within the company. As the first dedicated UX designer and researcher at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features.\n\nSome the areas you will focus on include:",
+      "responsibilities" : [
+        "Shopping: Design product and user flows for Storenvy’s groundbreaking social shopping experience.",
+        "Mobile: Design the UX for the upcoming Storenvy mobile apps.",
+        "Checkout: Test and tweak many different iterations of the checkout flow to find combinations that optimize conversions.",
+        "Store setup: Create interaction models and flows for quickly opening and setting up an online store. From uploading photos to customizing themes.",
+        "Work with the design team to plan new UI for Storenvy shopping and store management.",
+        "Enhance existing flows to increase usability and virality.",
+        "Interview users and non-users to understand how they shop or run their store.",
+        "Hold local user research groups to better understand the pain of being an online merchant.",
+        "Recommend new product features to enhance user experience."
+      ],
+      "requirements" : [
+        "A strong background in UX design including 4+ years experience.",
+        "A solid grasp of the varying design principles of web, mobile web, and native mobile apps.",
+        "You can jump into Firebug and edit CSS or HTML to communicate a concept or idea.",
+        "You have a passion for split-testing and testing all of your assumptions.",
+        "You understand that user experience is branding.",
+        "You pay impeccable attention to detail.",
+        "You can work closely with visual and UI designers and collaborate as part of your process.",
+        "You’re friendly and people like working with you.",
+        "You have the ability to work autonomously and hit deadlines while delivering top-tier work."
+      ],
+     "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
+      
+    },    
+
+    /*  UI Designer  */
+    { "title": "UI Designer",
+      "permalink": "designer",
+      "pitch": "Storenvy is a early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
+      "responsibilities": 
+       [ "Work with the team to rapidly plan, design and launch innovative new features.",
+         "Own the user experience from concept to engineering to launch.",
+         "Be comfortable designing for multiple platforms, including mobile web and iOS." ],
+      "requirements": 
+       [ "A proven background in design with a solid portfolio that demonstrates relevant abilities.",
+         "Experience designing for consumer and social web products.",
+         "Great communication and teamwork skills.",
+         "A keen eye for details and pixel perfection." ],
+      "apply": "Send work samples, a link to your Dribbble account and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>." }
+  ],
+
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                     Business
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
@@ -176,40 +249,6 @@ _StorenvyJobs({
       }
   ],
   
-  
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Community
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Community": [
-
-    /*  Community Support  */
-    { "title": "Community Support",
-      "permalink": "support",
-      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
-      "responsibilities": 
-       [ "Be the first point of contact on all support responsibilities through our online support system and email.",
-         "Respond to hundreds of shopper and merchant support requests each week.",
-         "Work closely with the Community Manager to quickly care for customer concerns.",
-         "Quickly respond to customer support inquiries in less than 24 hours.",
-         "Create or recommend support systems and flows that cut down on the customer support workload.",
-         "Create support articles, blog posts and screencasts in response to common support requests.",
-         "Work with the product, engineering and design teams to address user concerns.",
-         "Prep support articles for upcoming feature releases." ],
-      "requirements": 
-       [ "Excellent written communication skills and you're a stickler for grammar.",
-         "An uncanny ability to turn a negative situation into a positive one.",
-         "Extreme patience and the ability to remain cool under pressure.",
-         "Strong ability to stay on track while constanly multi-tasking.",
-         "Willingness to put out fires on evenings, weekends and holidays.",
-         "A love for people and for Inbox Zero.",
-         "Extensive experience as an online merchant.",
-         "Ability to understand technical questions merchants may ask about customizing his/her store.",
-         "Basic graphic design skills.",
-         "Experience with Desk.com a plus.",
-         "Basic HTML/CSS knowledge a huge plus." ],
-      "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
-      }
-  ],
  
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
@@ -222,25 +261,25 @@ _StorenvyJobs({
       "permalink": 'dir-of-eng',
       'pitch' : 'Storenvy is an early-stage product-driven company changing the way people sell online and discover amazing things. Founded by a Rails engineer, we use technology and UX to empower real people to open their own online store and to connect with customers all over the world to drive them more sales.\n\nAs the Director of Engineering, you will oversee engineering team operations and ensure the team is functioning at a high level and that engineers are happy and productive. You will collaborate with Product and Design leads daily to push projects to completion. You will oversee the hiring of 10 additional engineers bring the dev team to 12. The engineering team is responsible for the continued development of the Storenvy Marketplace, Store admin panel, Store Facebook app, mobile website, Store API, and more.\n\nThis is a new role in the company and reports directly to the CEO.',
       'responsibilities' : [
-'Design and build the engineering team of your dreams.',
-'Motivate individual contributors to perform the best work of their careers.',
-'Collaborate with Product and Design leads to rapidly build product.',
-'Estimate work and set engineering deadlines with Product team.',
-'Create interview processes and developer challenges to filter through to attract only the best candidates and measure for culture fit.',
-'Host hackathons & tech talks and write technical blog posts to support the local engineering culture.',
-'Constantly evolve team efficiency and workflow.',
-'Manage progress and ensure engineering meets all deadlines.',
-'Continue to establish a strong engineering culture at Storenvy.'
+        'Design and build the engineering team of your dreams.',
+        'Motivate individual contributors to perform the best work of their careers.',
+        'Collaborate with Product and Design leads to rapidly build product.',
+        'Estimate work and set engineering deadlines with Product team.',
+        'Create interview processes and developer challenges to filter through to attract only the best candidates and measure for culture fit.',
+        'Host hackathons & tech talks and write technical blog posts to support the local engineering culture.',
+        'Constantly evolve team efficiency and workflow.',
+        'Manage progress and ensure engineering meets all deadlines.',
+        'Continue to establish a strong engineering culture at Storenvy.'
 
         ],
       'requirements' : [
-'A strong background in leading engineering teams.',
-'4+ years experience with Ruby/Rails, MySQL, Redis, jQuery, and TDD.',
-'A good interview process and that can identify only A+ candidates.',
-'A tried and true routine of engineering best practices to guide the development process.',
-'A strong network of talented engineers to source candidates from.',
-'Great communication skills.',
-'A passion for style, transparency, accessibility, and simplicity.'
+          'A strong background in leading engineering teams.',
+          '4+ years experience with Ruby/Rails, MySQL, Redis, jQuery, and TDD.',
+          'A good interview process and that can identify only A+ candidates.',
+          'A tried and true routine of engineering best practices to guide the development process.',
+          'A strong network of talented engineers to source candidates from.',
+          'Great communication skills.',
+          'A passion for style, transparency, accessibility, and simplicity.'
         ],
       'apply' : 'Please send your Github account, LinkedIn profile or resume, and a note about yourself to <a href="mailto:jobs+engineering@storenvy.com">jobs+engineering@storenvy.com</a>.'
     },
@@ -314,76 +353,37 @@ _StorenvyJobs({
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
   ],
 
-  
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                      Design
+ /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
+                                    Community
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Design": [
-    /* Creative Director */
-    {
-      "title" : "Creative Director",
-      "permalink" : "creative-director",
-      "pitch" : "Storenvy is seeking an experienced Creative Director to manage it’s visual brand experience for both merchants and consumers. As the Creative Director, you will function as the lead graphic designer creating all important graphic elements necessary for marketing or branding uses. You will work with UI designers to visually develop the Storenvy shopping brand into a leading destination shopping experience. This is a new role at the company and reports directly to the CEO. Extremely creative individuals welcome.",
-      "responsibilities" : [
-         'Create industry-leading graphic artwork for contexts such as marketing pages, pop-up shops, important blog posts, shopping newsletters, and more.',
-         'Participate in photo shoots to source photos for graphic projects.',
-         'Create a brand guide and style guide to refine the Storenvy brand.',
-         'Collaborate with UI designers to keep the brand experience consistent throughout the application.',
-         'Lead the creative process on all special projects such as pop-ups, events, and marketing.'
-         ],
-      'requirements': [
-        'Experience as the lead creative within a company.',
-        'Experience working with a team of designers.',
-        'A very strong branding portfolio including illustration and visual design that incorporates photography.',
-        'Strong communications skills and excellent teamwork skills.',
-        'You’re nice and people like working with you.'
-       ],
-       "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
-    },
-    
-    {
-      "title" : "UX Designer & Researcher",
-      "permalink" : "ux",
-      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within the company. As the first dedicated UX designer and researcher at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features.\n\nSome the areas you will focus on include:",
-      "responsibilities" : [
-        "Shopping: Design product and user flows for Storenvy’s groundbreaking social shopping experience.",
-        "Mobile: Design the UX for the upcoming Storenvy mobile apps.",
-        "Checkout: Test and tweak many different iterations of the checkout flow to find combinations that optimize conversions.",
-        "Store setup: Create interaction models and flows for quickly opening and setting up an online store. From uploading photos to customizing themes.",
-        "Work with the design team to plan new UI for Storenvy shopping and store management.",
-        "Enhance existing flows to increase usability and virality.",
-        "Interview users and non-users to understand how they shop or run their store.",
-        "Hold local user research groups to better understand the pain of being an online merchant.",
-        "Recommend new product features to enhance user experience."
-      ],
-      "requirements" : [
-        "A strong background in UX design including 4+ years experience.",
-        "A solid grasp of the varying design principles of web, mobile web, and native mobile apps.",
-        "You can jump into Firebug and edit CSS or HTML to communicate a concept or idea.",
-        "You have a passion for split-testing and testing all of your assumptions.",
-        "You understand that user experience is branding.",
-        "You pay impeccable attention to detail.",
-        "You can work closely with visual and UI designers and collaborate as part of your process.",
-        "You’re friendly and people like working with you.",
-        "You have the ability to work autonomously and hit deadlines while delivering top-tier work."
-      ],
-     "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
-      
-    },    
+  "Community": [
 
-    /*  UI Designer  */
-    { "title": "UI Designer",
-      "permalink": "designer",
-      "pitch": "Storenvy is a early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
+    /*  Community Support  */
+    { "title": "Community Support",
+      "permalink": "support",
+      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
       "responsibilities": 
-       [ "Work with the team to rapidly plan, design and launch innovative new features.",
-         "Own the user experience from concept to engineering to launch.",
-         "Be comfortable designing for multiple platforms, including mobile web and iOS." ],
+       [ "Be the first point of contact on all support responsibilities through our online support system and email.",
+         "Respond to hundreds of shopper and merchant support requests each week.",
+         "Work closely with the Community Manager to quickly care for customer concerns.",
+         "Quickly respond to customer support inquiries in less than 24 hours.",
+         "Create or recommend support systems and flows that cut down on the customer support workload.",
+         "Create support articles, blog posts and screencasts in response to common support requests.",
+         "Work with the product, engineering and design teams to address user concerns.",
+         "Prep support articles for upcoming feature releases." ],
       "requirements": 
-       [ "A proven background in design with a solid portfolio that demonstrates relevant abilities.",
-         "Experience designing for consumer and social web products.",
-         "Great communication and teamwork skills.",
-         "A keen eye for details and pixel perfection." ],
-      "apply": "Send work samples, a link to your Dribbble account and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>." }
+       [ "Excellent written communication skills and you're a stickler for grammar.",
+         "An uncanny ability to turn a negative situation into a positive one.",
+         "Extreme patience and the ability to remain cool under pressure.",
+         "Strong ability to stay on track while constanly multi-tasking.",
+         "Willingness to put out fires on evenings, weekends and holidays.",
+         "A love for people and for Inbox Zero.",
+         "Extensive experience as an online merchant.",
+         "Ability to understand technical questions merchants may ask about customizing his/her store.",
+         "Basic graphic design skills.",
+         "Experience with Desk.com a plus.",
+         "Basic HTML/CSS knowledge a huge plus." ],
+      "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
+      }
   ]
 });
