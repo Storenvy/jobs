@@ -228,7 +228,7 @@ _StorenvyJobs({
           "You have a unique approach to recruiting that treats each candidate with dignity and respect.",
           "Great written and spoken communication skills."
           ],
-        "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href=’mailto:jobs+recruiting@storenvy.com’>jobs+recruiting@storenvy.com</a>."
+        "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href='mailto:jobs+recruiting@storenvy.com'>jobs+recruiting@storenvy.com</a>."
       },
       {
         "title": "Business Development",
