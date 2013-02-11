@@ -363,7 +363,7 @@ _StorenvyJobs({
     /*  Community Support  */
     { "title": "Community Support",
       "permalink": "support",
-      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it\"s in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
+      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it's in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
       "responsibilities": 
        [ "Be the first point of contact on all support responsibilities through our online support system and email.",
          "Respond to hundreds of shopper and merchant support requests each week.",
