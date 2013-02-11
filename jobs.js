@@ -384,7 +384,8 @@ _StorenvyJobs({
          "Ability to understand technical questions merchants may ask about customizing his/her store.",
          "Basic graphic design skills.",
          "Experience with Desk.com a plus.",
-         "Basic HTML/CSS knowledge a huge plus." ],
+         "Basic HTML/CSS knowledge a huge plus."
+         "Must be located in San Francisco or willing to relocate."],
       "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
       }
   ]
