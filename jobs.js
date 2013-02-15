@@ -3,10 +3,10 @@ _StorenvyJobs({
                                   Product
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Product" : [{
-  /* Product Manager, Marketplace */
-    "title": "Product Manager, Merchant Tools",
+  /* Head of Product, Marketplace */
+    "title": "Head of Product, Merchant Tools",
     "permalink": "prod-merchant",
-    "pitch": "Storenvy is an early-stage product-driven company and brings a consumer Internet approach to e-commerce tools to empower the next generation of online store owners. We’re looking for an experienced Product Manager who can think like a consumer to oversee the merchant side of the Storenvy product suite. This includes the storefront builder, the store admin panel, the store Facebook app, and new products such as native mobile apps for managing your store.\n\nThis is a new senior role and reports directly to the CEO. You will lead the merchant tools team of designers and engineers through planning and execution of all new merchant features. You should have fantastic product instincts and love great usability and design. You should have a health distaste for complicated or “enterprise-y” commerce software. Storenvy is bringing storefronts to the people and you’re going to be a big part of that.\n\nSenior candidates will be considered for a VP or Product role.",
+    "pitch": "Storenvy is an early-stage product-driven company and brings a consumer Internet approach to e-commerce tools to empower the next generation of online store owners. We’re looking for an experienced Head of Product who can think like a consumer to oversee the merchant side of the Storenvy product suite. This includes the storefront builder, the store admin panel, the store Facebook app, and new products such as native mobile apps for managing your store.\n\nThis is a new senior role and reports directly to the CEO. You will lead the merchant tools team of designers and engineers through planning and execution of all new merchant features. You should have fantastic product instincts and love great usability and design. You should have a health distaste for complicated or “enterprise-y” commerce software. Storenvy is bringing storefronts to the people and you’re going to be a big part of that.\n\nSenior candidates will be considered for a VP or Product role.",
     "responsibilities":
       [
 "Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.",
@@ -18,7 +18,7 @@ _StorenvyJobs({
 "Set launch timelines and deadlines with technical and design teams."
       ],
     "requirements": [
-      "Experience as a product manager for a high-demand consumer web application.",
+      "Experience as a product manager or Head of Product for a high-demand consumer web application.",
 "Experience leading a team.",
 "A strong innate sense of usability and product.",
 "A deep appreciation for good design and can tell the difference between and “good enough” and “great” design.",
@@ -30,10 +30,10 @@ _StorenvyJobs({
   
   {
     
-   /*  Product Manager, Marketplace  */
-    "title": "Product Manager, Marketplace",
+   /* Head of Product, Marketplace  */
+    "title": "Head of Product, Marketplace",
     "permalink": "prod-marketplace",
-    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 30,000 independent businesses. As the Product Manager in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and ahs already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
+    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 30,000 independent businesses. As the Head of Product in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and ahs already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
     "responsibilities": [
 'Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.',
 'Run daily product meetings to keep teams moving forward according to schedule.',
@@ -42,7 +42,7 @@ _StorenvyJobs({
 'Provide weekly reports of important app metrics.'
     ],
     "requirements": [
-      "Experience as a product manager for a high-demand consumer web application.",
+      "Experience as a product manager or Head of Product for a high-demand consumer web application.",
       "You have a strong innate sense of user experience and product.",
       "You like to shop and understand how women and teenage girls shop online.",
       "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics."
@@ -94,9 +94,9 @@ _StorenvyJobs({
   "Merchandising": [
 
     /*  Director of Marketplace & Merchandising  */
-    { "title": "Director of Marketplace & Merchandising",
+    { "title": "Head of Merchandising",
       "permalink": "merchandising",
-      "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Director of Marketplace & Merchandising, you\'ll be responsible for the product selection and creative content aspects of the shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
+      "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Head of Merchandising, you\'ll be responsible for the product selection and creative content aspects of the Storenvy.com shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
       "responsibilities": 
        [ "Manage the online retail brand of Storenvy.",
          "Drive e-commerce and focus on increasing transaction volume.",
@@ -257,11 +257,11 @@ _StorenvyJobs({
                                     Engineering
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Engineering": [
-    /* Director of Engineering */
+    /* Head of Engineering */
     {
-      "title" : "Director of Engineering",
+      "title" : "Head of Engineering",
       "permalink": 'dir-of-eng',
-      'pitch' : 'Storenvy is an early-stage product-driven company changing the way people sell online and discover amazing things. Founded by a Rails engineer, we use technology and UX to empower real people to open their own online store and to connect with customers all over the world to drive them more sales.\n\nAs the Director of Engineering, you will oversee engineering team operations and ensure the team is functioning at a high level and that engineers are happy and productive. You will collaborate with Product and Design leads daily to push projects to completion. You will oversee the hiring of 10 additional engineers bring the dev team to 12. The engineering team is responsible for the continued development of the Storenvy Marketplace, Store admin panel, Store Facebook app, mobile website, Store API, and more.\n\nThis is a new role in the company and reports directly to the CEO.',
+      'pitch' : 'Storenvy is an early-stage product-driven company changing the way people sell online and discover amazing things. Founded by a Rails engineer, we use technology and UX to empower real people to open their own online store and to connect with customers all over the world to drive them more sales.\n\nAs the Head of Engineering, you will oversee engineering team operations and ensure the team is functioning at a high level and that engineers are happy and productive. You will collaborate with Product and Design leads daily to push projects to completion. You will oversee the hiring of 10 additional engineers bring the dev team to 12. The engineering team is responsible for the continued development of the Storenvy Marketplace, Store admin panel, Store Facebook app, mobile website, Store API, and more.\n\nThis is a new role in the company and reports directly to the CEO.',
       'responsibilities' : [
         'Design and build the engineering team of your dreams.',
         'Motivate individual contributors to perform the best work of their careers.',
