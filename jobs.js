@@ -231,9 +231,9 @@ _StorenvyJobs({
         "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href='mailto:jobs+recruiting@storenvy.com'>jobs+recruiting@storenvy.com</a>."
       },
       {
-        "title": "Business Development",
+        "title": "Head of Business Development",
         "permalink": "biz-dev",
-        "pitch" : "Storenvy is a one-of-a kind e-commerce platform boasting over 30,000 storefronts from creative businesses. In the Business Role at Storenvy, you’ll be in charge of forging external partnerships and cultivating relationships with key users of our platforms. This will involve working strategic partners such as members of the fashion and music industries as well as other tech companies, local organizations and small businesses.\n\nThis a new role at the company and reports directly to the CEO.",
+        "pitch" : "Storenvy is a one-of-a kind e-commerce platform boasting over 30,000 storefronts from creative businesses. In the Business Role at Storenvy, you’ll be in charge of forging external partnerships and cultivating relationships with key users of our platforms. This will involve working with strategic partners such as members of the fashion and music industries as well as tech companies, local orgs and small businesses.\n\nThis a new role at the company and reports directly to the CEO.",
         "responsibilities" : [
           'Recruit and work with key merchants such as popular musicians or designers who use Storenvy’s store platform.',
           'Partner with other fashion or design companies or celebrities to launch curated pop-up shops or special events.',
