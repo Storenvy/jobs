@@ -353,40 +353,5 @@ _StorenvyJobs({
          'Mobile experience, a plus.'
       ],
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
-  ],
-
- /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Community
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Community": [
-
-    /*  Community Support  */
-    { "title": "Community Support",
-      "permalink": "support",
-      "pitch": "We're looking for a Community Support rock star that has strong communication skills and has a passion for creative businesses and helping people. You'll run point on all customer and merchant support responsibilities and report directly to our Community Manager. You must know the e-commerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it's in reply to the occasional all-caps mother-loving 'WTF' email.)\n",
-      "responsibilities": 
-       [ "Be the first point of contact on all support responsibilities through our online support system and email.",
-         "Respond to hundreds of shopper and merchant support requests each week.",
-         "Work closely with the Community Manager to quickly care for customer concerns.",
-         "Quickly respond to customer support inquiries in less than 24 hours.",
-         "Create or recommend support systems and flows that cut down on the customer support workload.",
-         "Create support articles, blog posts and screencasts in response to common support requests.",
-         "Work with the product, engineering and design teams to address user concerns.",
-         "Prep support articles for upcoming feature releases." ],
-      "requirements": 
-       [ "Excellent written communication skills and you're a stickler for grammar.",
-         "An uncanny ability to turn a negative situation into a positive one.",
-         "Extreme patience and the ability to remain cool under pressure.",
-         "Strong ability to stay on track while constanly multi-tasking.",
-         "Willingness to put out fires on evenings, weekends and holidays.",
-         "A love for people and for Inbox Zero.",
-         "Extensive experience as an online merchant.",
-         "Ability to understand technical questions merchants may ask about customizing his/her store.",
-         "Basic graphic design skills.",
-         "Experience with Desk.com a plus.",
-         "Basic HTML/CSS knowledge a huge plus.",
-         "Must be located in San Francisco or willing to relocate."],
-      "apply": "To apply, send your resume, links to social profiles, a note telling us why you're perfect for the job in 300 words or less and your Storenvy account to <a href='mailto:jobs+community@storenvy.com'>jobs+community@storenvy.com</a>."
-      }
   ]
 });
