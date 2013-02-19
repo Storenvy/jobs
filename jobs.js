@@ -21,6 +21,7 @@ _StorenvyJobs({
       "Experience as a product manager or Head of Product for a high-demand consumer web application.",
 "Experience leading a team.",
 "A strong innate sense of usability and product.",
+"Experience working with online merchants and e-commerce.",
 "A deep appreciation for good design and can tell the difference between and “good enough” and “great” design.",
 "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
 "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
@@ -58,7 +59,7 @@ _StorenvyJobs({
   "Marketing": [
 
     /*  Director of Communications & PR  */
-    { "title": "Director of Communications & PR",
+    { "title": "Director of Marketing & Communications",
       "permalink": "communications",
       "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.",
       "responsibilities": 
