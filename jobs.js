@@ -61,17 +61,16 @@ _StorenvyJobs({
     /*  Director of Communications & PR  */
     { "title": "Director of Marketing & Communications",
       "permalink": "communications",
-      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Communications & PR, your role will be to serve as the voice of the Storenvy company and community to any and all media outlets. In this brand-new position to the company, you will focus on both writing and getting press coverage for Storenvy.",
+      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Marketing & Communications, you will manage Storenvy's brand awareness. All marketing and advertising efforts will be up to you, as well as media relations and PR pushes. You'll meticulously create and manage a content strategy, while also responding to opportunities on the fly. Some of that content will be your own, from contributed articles on strategy to trend posts for fashion blogs. Copywriting, brand-building and blogger outreach may be on your plate on any given day. You'll own the Storenvy brand voice in all communications.",
       "responsibilities": 
-       [ "Manage and carefully refine the Storenvy brand voice.",
-         "Contribute content to Storenvy's social media outlets.",
+       [ "Strategically position Storenvy in the market, maintaining that positioning through all brand communications.",
+         "Oversee and analyze metrics on all marketing and advertising efforts.",
+         "Maintain relationships with members of the tech, business and consumer press, as well as relevant bloggers.",
+         "Manage and carefully refine the Storenvy brand voice.",
+         "Contribute to Storenvy's content and social media channels, as well as to third party media outlets.",
          "Work with Merchandising Director to assemble shopping trend pitches for publications.",
-         "Pitch and get coverage for human-interest stories within the Storenvy merchant community in tech, small business and consumer publications.\n",
-         "Manage relationships and pitch content to bloggers.",
-         "Contribute articles and content to 3rd party media outlets such as Fast Company, Entrepreneur Mag, etc.",
          "Create PR plans and press releases for Storenvy product and feature launches.",
          "Edit and write marketing copy and supporting app content when required.",
-         "Collaborate with the Community Manager to edit and produce long-form content for our merchant 'Tips &amp; Tricks' section that drives SEO.\n",
          "Report directly to the CEO." ],
       
       "requirements": 
