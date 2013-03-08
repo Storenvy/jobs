@@ -211,7 +211,7 @@ _StorenvyJobs({
         "permalink" : "talent",
         "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from 7 to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.\n\n3-6 month contracts will be considered but full-time is preferred.",
         "responsibilities" : [
-          "Recruit 10+ engineers to the Storenvy development team.",
+          "Recruit 10+ engineers to the Storenvy engineering team.",
           "Recruit shopping-savvy designers to enhance the Storenvy shopping experience and to bring it to mobile devices.",
           "Source tastemakers and merchandisers to uncover and curate Storenvy’s most gorgeous products.",
           "Establish a formal interview process and onboarding experience for each area of the business.",
@@ -229,26 +229,8 @@ _StorenvyJobs({
           "Great written and spoken communication skills."
           ],
         "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href='mailto:jobs+recruiting@storenvy.com'>jobs+recruiting@storenvy.com</a>."
-      },
-      {
-        "title": "Head of Business Development",
-        "permalink": "biz-dev",
-        "pitch" : "Storenvy is a one-of-a kind e-commerce platform boasting over 30,000 storefronts from creative businesses. In the Business Role at Storenvy, you’ll be in charge of forging external partnerships and cultivating relationships with key users of our platforms. This will involve working with strategic partners such as members of the fashion and music industries as well as tech companies, local orgs and small businesses.\n\nThis a new role at the company and reports directly to the CEO.",
-        "responsibilities" : [
-          'Recruit and work with key merchants such as popular musicians or designers who use Storenvy’s store platform.',
-          'Partner with other fashion or design companies or celebrities to launch curated pop-up shops or special events.',
-          'Create partnerships with other commerce software companies in order to launch integrations that offer more features to our merchants.',
-          'Form and maintain relationships with other companies in the retail, small business, design, fashion, and music space.'
-        ],
-        "requirements" : [
-          "Connections in the music, entertainment, and/or fashion space.",
-          "A strong understanding of the music and fashion worlds.",
-          "A background in Business Development at a rapidly-growing company.",
-          "The ability to work autonomously and recognize opportunities on your own.",
-          "Strong interpersonal and presentation skills."
-        ],
-        "apply" : "Send your LinkedIn profile and a note about yourself to <a href='mailto:jobs+bizdev@storenvy.com'>jobs+bizdev@storenvy.com</a>."        
       }
+      
   ],
   
  
