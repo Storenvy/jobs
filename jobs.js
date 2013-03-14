@@ -28,9 +28,9 @@ _StorenvyJobs({
       ],
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
   },
-  
+
   {
-    
+
    /* Head of Product, Marketplace  */
     "title": "Head of Product, Marketplace",
     "permalink": "prod-marketplace",
@@ -51,7 +51,7 @@ _StorenvyJobs({
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   }
   ],
-  
+
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                     Marketing
@@ -62,7 +62,7 @@ _StorenvyJobs({
     { "title": "Director of Marketing & Communications",
       "permalink": "communications",
       "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Marketing & Communications, you will manage Storenvy's brand awareness. All marketing and advertising efforts will be up to you, as well as media relations and PR pushes. You'll meticulously create and manage a content strategy, while also responding to opportunities on the fly. Some of that content will be your own, from contributed articles on strategy to trend posts for fashion blogs. Copywriting, brand-building and blogger outreach may be on your plate on any given day. You'll own the Storenvy brand voice in all communications.",
-      "responsibilities": 
+      "responsibilities":
        [ "Strategically position Storenvy in the market, maintaining that positioning through all brand communications.",
          "Oversee and analyze metrics on all marketing and advertising efforts.",
          "Maintain relationships with members of the tech, business and consumer press, as well as relevant bloggers.",
@@ -72,8 +72,8 @@ _StorenvyJobs({
          "Create PR plans and press releases for Storenvy product and feature launches.",
          "Edit and write marketing copy and supporting app content when required.",
          "Report directly to the CEO." ],
-      
-      "requirements": 
+
+      "requirements":
        [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
          "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
          "You’ve worked in communications or PR at a world-class company or startup.",
@@ -87,7 +87,7 @@ _StorenvyJobs({
          "You're hungry to change the face of commerce by making it more creative and more social." ],
       "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
     ],
-    
+
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                             Merchandising
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
@@ -97,7 +97,7 @@ _StorenvyJobs({
     { "title": "Head of Merchandising",
       "permalink": "merchandising",
       "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Head of Merchandising, you\'ll be responsible for the product selection and creative content aspects of the Storenvy.com shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
-      "responsibilities": 
+      "responsibilities":
        [ "Manage the online retail brand of Storenvy.",
          "Drive e-commerce and focus on increasing transaction volume.",
          "Trend forecasting and shopper style-profiling.",
@@ -112,7 +112,7 @@ _StorenvyJobs({
          "Work with Product Managers to evolve the Storenvy shopping experience.",
          "Report directly to the CEO.",
          "Build a team to support your efforts." ],
-      "requirements": 
+      "requirements":
        [ "You have strong experience in style-focused online retail merchandising where you've curated products for many different types of shoppers.",
          "You're metrics-driven. You track clicks, add-to-cart and conversion rates and adjust content accordingly.",
          "Your work exudes a passion for style and design.",
@@ -135,7 +135,7 @@ _StorenvyJobs({
     {
       "title" : "Creative Director",
       "permalink" : "creative-director",
-      "pitch" : "Storenvy is seeking an experienced Creative Director to manage it’s visual brand experience for both merchants and consumers. As the Creative Director, you will function as the lead graphic designer creating all important graphic elements necessary for marketing or branding uses. You will work with UI designers to visually develop the Storenvy shopping brand into a leading destination shopping experience. This is a new role at the company and reports directly to the CEO. Extremely creative individuals welcome.",
+      "pitch" : "Storenvy is seeking an experienced Creative Director to manage its visual brand experience for both merchants and consumers. As the Creative Director, you will function as the lead graphic designer creating all important graphic elements necessary for marketing or branding uses. You will work with UI designers to visually develop the Storenvy shopping brand into a leading destination shopping experience. This is a new role at the company and reports directly to the CEO. Extremely creative individuals welcome.",
       "responsibilities" : [
          'Create industry-leading graphic artwork for contexts such as marketing pages, pop-up shops, important blog posts, shopping newsletters, and more.',
          'Participate in photo shoots to source photos for graphic projects.',
@@ -152,7 +152,7 @@ _StorenvyJobs({
        ],
        "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
     },
-    
+
     {
       "title" : "UX Designer & Researcher",
       "permalink" : "ux",
@@ -180,18 +180,18 @@ _StorenvyJobs({
         "You have the ability to work autonomously and hit deadlines while delivering top-tier work."
       ],
      "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
-      
-    },    
+
+    },
 
     /*  UI Designer  */
     { "title": "UI Designer",
       "permalink": "designer",
       "pitch": "Storenvy is a early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
-      "responsibilities": 
+      "responsibilities":
        [ "Work with the team to rapidly plan, design and launch innovative new features.",
          "Own the user experience from concept to engineering to launch.",
          "Be comfortable designing for multiple platforms, including mobile web and iOS." ],
-      "requirements": 
+      "requirements":
        [ "A proven background in design with a solid portfolio that demonstrates relevant abilities.",
          "Experience designing for consumer and social web products.",
          "Great communication and teamwork skills.",
@@ -202,10 +202,10 @@ _StorenvyJobs({
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                     Business
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-      
-    
+
+
     "Business" : [
-      
+
       {
         "title" : "Head of Talent",
         "permalink" : "talent",
@@ -217,7 +217,7 @@ _StorenvyJobs({
           "Establish a formal interview process and onboarding experience for each area of the business.",
           "Walk new hires through the onboarding experience and help them feel at home.",
           "Attend or sponsor hackathons and tech events to source candidates."
-          
+
         ],
         "requirements" : [
           "6+ years technical recruiting experience at early-stage companies, preferably in product-driven companies.",
@@ -230,10 +230,10 @@ _StorenvyJobs({
           ],
         "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href='mailto:jobs+recruiting@storenvy.com'>jobs+recruiting@storenvy.com</a>."
       }
-      
+
   ],
-  
- 
+
+
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                     Engineering
@@ -271,14 +271,14 @@ _StorenvyJobs({
     { "title": "Front-end Engineer",
       "permalink": "frontend",
       "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a front-end engineer that loves building great user interfaces with clean, semantic, modular, structured code and cares deeply about performance, accessibility and progressive enhancement.  You should have a solid background with JavaScript and CSS and understand how tools like jQuery, Backbone and SCSS complement them. You might just have very strong opinions on when to use prototypical versus pseudo-classical patterns, or Base64 encoding versus sprites. Most importantly, you should care about the user and how they will interact with your code.",
-      "responsibilities": 
+      "responsibilities":
        [ "Work with our small team of front-end and back-end engineers to build new user interfaces using jQuery, Backbone, SCSS, etc.",
          "Take designs from PSD/Fireworks to HTML, CSS and JavaScript.",
          "Work with back-end engineers to implement application logic.",
          "Write performant, efficient front-end code.",
          "Monitor front-end performance and make improvements.",
          "Implement analytics tools to understand how users interact with the application."],
-      "requirements": 
+      "requirements":
        [ "3+ years experience writing great front-end code.",
          "Strong competency in JavaScript and CSS.",
          "Experience with Git/Github.",
@@ -306,14 +306,14 @@ _StorenvyJobs({
         "The ability to be productive and happy while working autonomously."
       ],
       "apply" : "Send a link to your Github and LinkedIn profiles, links to your previous work, and a note about yourself to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
-      
+
     },
     /* Senior Rails Engineer  */
     { "title": "Senior Rails Engineer",
       "permalink": "sr-rails",
       "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by hackers and love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Senior Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. You will make important technical decisions and ensure the scalability and performance of Storenvy’s applications.\n\nSee \"Responsibilities\" to the right for some of the complex engineering challenges we are working on.",
-      "responsibilities": 
-       [ 
+      "responsibilities":
+       [
        'Selling: Constantly evolve the experience of creating an online store.',
        'Discovery: Allow people to find products they love through social curation, algorithmic recommendation engines, and powerful search and filtering tools.',
        'Recommendation system: Produce personalized recommendations based on users’ friend activity and behavior.',
@@ -326,7 +326,7 @@ _StorenvyJobs({
        'Drive Growth: Measure and assess user engagement via analytics. Create tools that help merchants become more successful.',
        'Rapidly develop features listed in the Storenvy product roadmap in a test-driven, engineer-friendly environment.'
       ],
-      "requirements": 
+      "requirements":
        [
          '4+ years experience test-driven Ruby on Rails developer.',
          'Experience scaling applications with Ruby, MySQL, and Redis.',
