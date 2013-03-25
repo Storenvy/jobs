@@ -87,46 +87,6 @@ _StorenvyJobs({
          "You're hungry to change the face of commerce by making it more creative and more social." ],
       "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
     ],
-
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                            Merchandising
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Merchandising": [
-
-    /*  Director of Marketplace & Merchandising  */
-    { "title": "Head of Merchandising",
-      "permalink": "merchandising",
-      "pitch": "Storenvy aims to be a leading destination for unique and creative goods from millions of merchants all over the world. As the Head of Merchandising, you\'ll be responsible for the product selection and creative content aspects of the Storenvy.com shopping experience. From selecting the product mix to optimizing e-mail conversion rates, the role will help establish and evolve what it means to shop at Storenvy. This is a brand-new role at Storenvy and will become one of the most important roles in the company.\n",
-      "responsibilities":
-       [ "Manage the online retail brand of Storenvy.",
-         "Drive e-commerce and focus on increasing transaction volume.",
-         "Trend forecasting and shopper style-profiling.",
-         "Hand-select products for many different types of user homepages (men, women, fashionistas, teenagers, hipsters, etc.).",
-         "Create and curate written & visual content for daily shopping emails to millions of customers of different segments.",
-         "Plan online retail events such as holiday sales.",
-         "Manage campaigns and pop-up shops.",
-         "Help establish Storenvy as a leading destination for fashion, design, music, art and other creative categories.",
-         "Oversee photo shoots, styling and design for online retail look-books.",
-         "Work with PR to produce gift guides and other product pitches for publications.",
-         "Prepare regular reports to demonstrate shopping trends and sales performance.",
-         "Work with Product Managers to evolve the Storenvy shopping experience.",
-         "Report directly to the CEO.",
-         "Build a team to support your efforts." ],
-      "requirements":
-       [ "You have strong experience in style-focused online retail merchandising where you've curated products for many different types of shoppers.",
-         "You're metrics-driven. You track clicks, add-to-cart and conversion rates and adjust content accordingly.",
-         "Your work exudes a passion for style and design.",
-         "You keep a style, design, or fashion blog and a healthy Pinterest page.",
-         "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
-         "You like taking on a lot of responsibility and are cool under pressure.",
-         "You thrive in a startup environment with limited resources and huge potential.",
-         "You ask for forgiveness, not permission.",
-         "You're fun to be around and inspiring to work with.",
-         "You're passionate about to changing the face of commerce by making it more creative and more social." ],
-      "apply": "Send work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+merchandising@storenvy.com'>jobs+merchandising@storenvy.com</a>." }
-  ],
-
-
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                       Design
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
