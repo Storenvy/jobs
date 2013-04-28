@@ -34,7 +34,7 @@ _StorenvyJobs({
    /* Head of Product, Marketplace  */
     "title": "Head of Product, Marketplace",
     "permalink": "prod-marketplace",
-    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 30,000 independent businesses. As the Head of Product in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and has already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
+    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 40,000+ independent businesses. As the Head of Product in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and has already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
     "responsibilities": [
 'Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.',
 'Run daily product meetings to keep teams moving forward according to schedule.',
@@ -51,42 +51,6 @@ _StorenvyJobs({
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   }
   ],
-
-
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Marketing
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Marketing": [
-
-    /*  Director of Communications & PR  */
-    { "title": "Director of Marketing & Communications",
-      "permalink": "communications",
-      "pitch": "Storenvy is home to 30,000 creative businesses and 750,000 amazing products. As the Director of Marketing & Communications, you will manage Storenvy's brand awareness. All marketing and advertising efforts will be up to you, as well as media relations and PR pushes. You'll meticulously create and manage a content strategy, while also responding to opportunities on the fly. Some of that content will be your own, from contributed articles on strategy to trend posts for fashion blogs. Copywriting, brand-building and blogger outreach may be on your plate on any given day. You'll own the Storenvy brand voice in all communications.",
-      "responsibilities":
-       [ "Strategically position Storenvy in the market, maintaining that positioning through all brand communications.",
-         "Oversee and analyze metrics on all marketing and advertising efforts.",
-         "Maintain relationships with members of the tech, business and consumer press, as well as relevant bloggers.",
-         "Manage and carefully refine the Storenvy brand voice.",
-         "Contribute to Storenvy's content and social media channels, as well as to third party media outlets.",
-         "Work with Merchandising Director to assemble shopping trend pitches for publications.",
-         "Create PR plans and press releases for Storenvy product and feature launches.",
-         "Edit and write marketing copy and supporting app content when required.",
-         "Report directly to the CEO." ],
-
-      "requirements":
-       [ "Journalism or creative writing experience in the fashion, retail, consumer Internet or design space.",
-         "You're a great writer. The Storenvy brand should have a strong, consistent voice in everything that a customer sees.",
-         "You’ve worked in communications or PR at a world-class company or startup.",
-         "You have experience and relevant connections at national consumer, tech, or small business news publications.",
-         "You have experience working with and relevant connections at consumer news publications.",
-         "A passion for fashion, shopping, design, art and creative small business.",
-         "You like taking on a lot of responsibility and are cool under pressure.",
-         "You thrive in a startup environment with limited resources and huge potential.",
-         "You start impactful projects without having to be asked.",
-         "You're fun to be around and inspiring to work with.",
-         "You're hungry to change the face of commerce by making it more creative and more social." ],
-      "apply": "Send your LinkedIn profile, work samples and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+communications@storenvy.com'>jobs+communications@storenvy.com</a>." },
-    ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                       Design
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
@@ -169,7 +133,7 @@ _StorenvyJobs({
       {
         "title" : "Head of Talent",
         "permalink" : "talent",
-        "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from 7 to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.\n\n3-6 month contracts will be considered but full-time is preferred.",
+        "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from a handful up to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.\n\n3-6 month contracts will be considered but full-time is preferred.",
         "responsibilities" : [
           "Recruit 10+ engineers to the Storenvy engineering team.",
           "Recruit shopping-savvy designers to enhance the Storenvy shopping experience and to bring it to mobile devices.",
