@@ -78,22 +78,21 @@ _StorenvyJobs({
     },
 
     {
-      "title" : "UX Designer & Researcher",
+      "title" : "Lead UX Designer",
       "permalink" : "ux",
-      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within the company. As the first dedicated UX designer and researcher at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features.",
+      "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within our small company. As the first dedicated UX designer at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features to profoundly enhance the way the next generation does commerce online. You will report directly to the CEO.",
       "responsibilities" : [
-        "Shopping: Design product and user flows for Storenvy’s groundbreaking social shopping experience.",
+        "Shopping: Design product and user interface flows for Storenvy’s groundbreaking social shopping experience.",
         "Mobile: Design the UX for the upcoming Storenvy mobile apps.",
         "Checkout: Test and tweak many different iterations of the checkout flow to find combinations that optimize conversions.",
         "Store setup: Create interaction models and flows for quickly opening and setting up an online store. From uploading photos to customizing themes.",
         "Work with the design team to plan new UI for Storenvy shopping and store management.",
         "Enhance existing flows to increase usability and virality.",
-        "Interview users and non-users to understand how they shop or run their store.",
-        "Hold local user research groups to better understand the pain of being an online merchant.",
+        "Talk to users and non-users to understand how they shop or run their store.",
         "Recommend new product features to enhance user experience."
       ],
       "requirements" : [
-        "A strong background in UX design including 4+ years experience.",
+        "A strong background in web UX design and a great portfolio of past work.",
         "A solid grasp of the varying design principles of web, mobile web, and native mobile apps.",
         "You can jump into Firebug and edit CSS or HTML to communicate a concept or idea.",
         "You have a passion for split-testing and testing all of your assumptions.",
