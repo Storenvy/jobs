@@ -55,28 +55,6 @@ _StorenvyJobs({
                                       Design
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Design": [
-    /* Creative Director */
-    {
-      "title" : "Creative Director",
-      "permalink" : "creative-director",
-      "pitch" : "Storenvy is seeking an experienced Creative Director to manage its visual brand experience for both merchants and consumers. As the Creative Director, you will function as the lead graphic designer creating all important graphic elements necessary for marketing or branding uses. You will work with UI designers to visually develop the Storenvy shopping brand into a leading destination shopping experience. This is a new role at the company and reports directly to the CEO. Extremely creative individuals welcome.",
-      "responsibilities" : [
-         'Create industry-leading graphic artwork for contexts such as marketing pages, pop-up shops, important blog posts, shopping newsletters, and more.',
-         'Participate in photo shoots to source photos for graphic projects.',
-         'Create a brand guide and style guide to refine the Storenvy brand.',
-         'Collaborate with UI designers to keep the brand experience consistent throughout the application.',
-         'Lead the creative process on all special projects such as pop-ups, events, and marketing.'
-         ],
-      'requirements': [
-        'Experience as the lead creative within a company.',
-        'Experience working with a team of designers.',
-        'A very strong branding portfolio including illustration and visual design that incorporates photography.',
-        'Strong communications skills and excellent teamwork skills.',
-        'You’re nice and people like working with you.'
-       ],
-       "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
-    },
-
     {
       "title" : "Lead UX Designer",
       "permalink" : "ux",
