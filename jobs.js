@@ -201,38 +201,6 @@ _StorenvyJobs({
          'Mobile experience, a plus.'
       ],
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
-  ],
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Business
-  \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-
-  "Business" : [
-
-      {
-        "title" : "Head of Talent",
-        "permalink" : "talent",
-        "pitch" : "As the first Head of Talent at Storenvy, you’ll be responsible for taking our world-class product, engineering, and merchandising team from a handful up to 30 people. The next wave of hires will strongly impact the company culture, so your ability to measure culture fit and source excellent candidates will have a big impact the future of the company.\n\nWe care deeply about the recruiting experience our candidates face, so you should be conscientious and calculated with your recruiting techniques always improving the Storenvy “recruiting brand”.  You will work with the engineering & design-savvy CEO to identify and close A+ candidates.\n\n3-6 month contracts will be considered but full-time is preferred.",
-        "responsibilities" : [
-          "Recruit 10+ engineers to the Storenvy engineering team.",
-          "Recruit shopping-savvy designers to enhance the Storenvy shopping experience and to bring it to mobile devices.",
-          "Source tastemakers and merchandisers to uncover and curate Storenvy’s most gorgeous products.",
-          "Establish a formal interview process and onboarding experience for each area of the business.",
-          "Walk new hires through the onboarding experience and help them feel at home.",
-          "Attend or sponsor hackathons and tech events to source candidates."
-
-        ],
-        "requirements" : [
-          "6+ years technical recruiting experience at early-stage companies, preferably in product-driven companies.",
-          "Experience recruiting Ruby, Javascript, and iOS engineers.",
-          "A strong eye for design and the ability to tell the difference between “good” design and “great” design.",
-          "The ability to see people’s potential.",
-          "You understand how to develop and maintain a strong recruiting brand.",
-          "You have a unique approach to recruiting that treats each candidate with dignity and respect.",
-          "Great written and spoken communication skills."
-          ],
-        "apply" : "Send your LinkedIn profile and a note about yourself and your experience to <a href='mailto:jobs+recruiting@storenvy.com'>jobs+recruiting@storenvy.com</a>."
-      }
-
   ]
 
 });
