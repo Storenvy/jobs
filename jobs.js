@@ -3,52 +3,40 @@ _StorenvyJobs({
                                   Product
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Product" : [{
-  /* Head of Product, Marketplace */
-    "title": "Head of Product, Merchant Tools",
-    "permalink": "prod-merchant",
-    "pitch": "Storenvy is an early-stage product-driven company and brings a consumer Internet approach to e-commerce tools to empower the next generation of online store owners. We’re looking for an experienced Head of Product who can think like a consumer to oversee the merchant side of the Storenvy product suite. This includes the storefront builder, the store admin panel, the store Facebook app, and new products such as native mobile apps for managing your store.\n\nThis is a new senior role and reports directly to the CEO. You will lead the merchant tools team of designers and engineers through planning and execution of all new merchant features. You should have fantastic product instincts and love great usability and design. You should have a health distaste for complicated or “enterprise-y” commerce software. Storenvy is bringing storefronts to the people and you’re going to be a big part of that.\n\nSenior candidates will be considered for a VP or Product role.",
+  /* Head of Product */
+    "title": "Head of Product",
+    "permalink": "product",
+    "pitch": "We are an early-stage product-driven company that brings a consumer Internet perspective to e-commerce to empower the next generation of online store owners and artists. The Storenvy Marketplace has been live since Dec ‘12 and has already processed millions of dollars and has over 1M registered users and growing rapidly. We’re looking for an experienced Head of Product who can think both like a young consumer and a like unique small business owner. This is a high-growth opportunity which requires someone who is organized and extremely product-savvy.
+
+You will oversee the day-to-day planning, execution, and launch of Storenvy's entire product suite. You will interface directly with the engineering and design teams as well as Directors from other teams and the CEO. This is a new senior role in the quickly growing Storenvy team and reports directly to the CEO.
+
+Storenvy has 6 products spanning many different product disciples including SaaS, social, commerce, and more. This is a unique opportunity ideal for someone who can think critically about design, engineering, and UX all at the same time. Our products include the storefront builder, the store admin panel, the store Facebook app, the Storenvy marketplace, the mobile-web marketplace experience,and our oAuth 2 API. Plus new products such as native mobile apps coming soon.
+
+We create great product out of who we are and out of a deep understanding of the problems we're solving. You should have fantastic product instincts, know how to ask amazing questions to get to amazing answers and love great usability and design. We're making commerce authentic and accessible for everyone. So you should also have a healthy distaste for complicated or “enterprise-y” commerce software. Let's make shopping and selling more human together.
+",
     "responsibilities":
       [
-"Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.",
+"Work with the team to rapidly plan, design, build, and ship amazing product.",
+'Run daily product meetings to keep teams moving forward according to schedule.',
 "Spearhead new native mobile app projects.",
-"Instrument, test, and measure all important elements of Storenvy Stores.",
+"Instrument, test, and measure all important elements of the product.",
 "Conduct split-tests within the application to test assumptions.",
 "Request user testing and UX research information to guide product development.",
 "Provide weekly reports of important app metrics.",
-"Set launch timelines and deadlines with technical and design teams."
+"Set launch timelines and deadlines with technical and design teams.",
+"Present important launches or announcements to the board of directors."
       ],
     "requirements": [
-      "Experience as a product manager or Head of Product for a high-demand consumer web application.",
+      "Experience as a senior product manager or Head of Product for a high-demand consumer web application.",
 "Experience leading a team.",
-"A strong innate sense of usability and product.",
-"Experience working with online merchants and e-commerce.",
+"A strong innate sense of usability, design and product.",
+"Experience working with shopping, social, online merchants or e-commerce.",
+"You like to shop and understand how women and teenage girls shop online.",
 "A deep appreciation for good design and can tell the difference between and “good enough” and “great” design.",
 "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
 "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
       ],
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
-  },
-
-  {
-
-   /* Head of Product, Marketplace  */
-    "title": "Head of Product, Marketplace",
-    "permalink": "prod-marketplace",
-    "pitch": "The Storenvy Marketplace is a brand-new social shopping platform composed of the world’s creative and interesting things to buy from over 40,000+ independent businesses. As the Head of Product in charge of Marketplace, you will guide the planning and development of all of Storenvy’s consumer-facing products.\n\nThe Storenvy Marketplace has been live since Dec ‘12 and has already processed millions of dollars and has over 500k registered users and growing rapidly. This is a high-growth opportunity which requires someone who is organized, extremely product-savvy and can think like a young consumer.\n\nThis is a new senior role and reports directly to the CEO. Senior candidates will be considered for a VP or Product role.",
-    "responsibilities": [
-'Work with the technical lead and design lead of Merchant Tools to rapidly plan, design, build, and ship new product releases.',
-'Run daily product meetings to keep teams moving forward according to schedule.',
-'Spearhead new native mobile app projects.',
-'Instrument, test, and measure all important elements of Storenvy Stores.',
-'Provide weekly reports of important app metrics.'
-    ],
-    "requirements": [
-      "Experience as a product manager or Head of Product for a high-demand consumer web application.",
-      "You have a strong innate sense of user experience and product.",
-      "You like to shop and understand how women and teenage girls shop online.",
-      "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics."
-    ],
-    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>"
   }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
