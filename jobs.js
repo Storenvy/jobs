@@ -50,7 +50,7 @@ _StorenvyJobs({
       'Strong writing skills.',
       'An eye for usability or design. You’ll be the first person to see a lot of product before it gets handed over for review. Give feedback!.'
     ],
-    "apply" : "Send your resume or LinkedIn account, examples of successful projects you've managed and how you made a difference along with a note about yourself to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
+    "apply" : "Send your resume or LinkedIn profile, examples of successful projects you've managed and how you made a difference along with a note about yourself to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
   }
     ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
