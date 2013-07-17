@@ -30,8 +30,28 @@ _StorenvyJobs({
 "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
       ],
     "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
+  },
+  {
+    "title" : "Producer",
+    "permalink" : "producer",
+    "pitch" : 'Storenvy is looking for a tech and design-savvy person to help us get things done. You’ll be the glue that brings everyone together so that we can do amazing things. This means fascilitating strong day-to-day communication throughout the team and helping people get the resources they need to be successful.\n\nYou’ll be managing projects such as the development of new features, special marketing projects, and more. This will be a very diverse role requiring a lot of attention to detail and the ability to wear many hats at the same time. For the right person, it’s going to be a blast.\n\nStorenvy is a super talented team of creative and unique people. We’ve done amazing things so far, but as our team has quickly grown, it’s become clear that we need a dedicated person to help us communicate better and to manage projects better. That’s where you come in. This is a new important role within the company and reports directly to the CEO.',
+    'responsibilities' : [
+      'Manage a company-wide ongoing project list and understand the status of each project at all times.',
+      'Work with leaders and contributors to scope, plan, and schedule all projects.',
+      'Manage the day-to-day product check-in meetings and fasciliate communication amongst team members.',
+      'Communicate updates and status changes to the rest of the organization daily.',
+      'Constantly evolve and improve our processes to help us be more efficient and to communicate better.'
+    ],
+    'requirements'  : [
+      '2+ years in project or product management.',
+      'First-hand experience of the inner workings of a highly effecient startup team of over 15 people.'
+      'Extreme attention to detail.',
+      'Strong punctuality, a stablizing presence, and the ability to help other people collaborate with one another.',
+      'Strong writing skills.',
+      'An eye for usability or design. You’ll be the first person to see a lot of product before it gets handed over for review. Give feedback!.'
+    ]
   }
-  ],
+    ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                       Design
   \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
