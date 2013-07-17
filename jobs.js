@@ -44,7 +44,7 @@ _StorenvyJobs({
     ],
     'requirements'  : [
       '2+ years in project or product management.',
-      'First-hand experience of the inner workings of a highly effecient startup team of over 15 people.'
+      'First-hand experience of the inner workings of a highly effecient startup team of over 15 people.',
       'Extreme attention to detail.',
       'Strong punctuality, a stablizing presence, and the ability to help other people collaborate with one another.',
       'Strong writing skills.',
