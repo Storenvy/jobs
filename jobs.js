@@ -9,16 +9,7 @@ _StorenvyJobs(
     /* PR Manager */
     "title": "PR & Communications Manager",
     "permalink": "pr",
-    "pitch" : "We're looking for an amazing storyteller - who also happens to be an experienced PR and communications pro. As Storenvy’s very first-ever PR & Communications Manager, you’ll be responsible for developing and executing PR strategies and campaigns that tell the stories of our community, our amazing store owners and our brand. You’ll report directly to the Director of Marketing & Communications and will work with the rest of the team and CEO to craft and execute PR campaigns that introduce amazing businesses the world.\n\nAbout You:
-    <ul>
-  <li>You’re a storyteller at heart. You’re a strong communicator, and you have a drive to see your story “in lights” doing everything you can to get it there.</li>
-  <li>You're authentic and original. You have a unique point of view and have a deep personal connection to what you do.</li>
-  <li>You love PR. You think about communications strategies in your free time; you’re social and can’t imagine a day without talking to a ton of people; you think big but can act small.</li>
-  <li>You're experienced. You know how to attack seasonal commerce trends, small business events, and you have a great rolodex of media contacts.</li>
-  <li>You’re a team player. You can’t wait to get to the office everyday and see what’s going on so you can figure out how to help.</li>
-  <li>You love data. When you craft a great PR story, it's always packed with juicy bits of data and you know how to track the effectiveness of a campaign.</li>
-  <li>You’re flexible and self-directed. This is a startup. Things can change quickly, and you can think fast on your feet.</li>
-  </ul>",
+    "pitch" : "We're looking for an amazing storyteller - who also happens to be an experienced PR and communications pro. As Storenvy’s very first-ever PR & Communications Manager, you’ll be responsible for developing and executing PR strategies and campaigns that tell the stories of our community, our amazing store owners and our brand. You’ll report directly to the Director of Marketing & Communications and will work with the rest of the team and CEO to craft and execute PR campaigns that introduce amazing businesses the world.\n\nAbout You:<ul><li>You’re a storyteller at heart. You’re a strong communicator, and you have a drive to see your story “in lights” doing everything you can to get it there.</li><li>You're authentic and original. You have a unique point of view and have a deep personal connection to what you do.</li><li>You love PR. You think about communications strategies in your free time; you’re social and can’t imagine a day without talking to a ton of people; you think big but can act small.</li><li>You're experienced. You know how to attack seasonal commerce trends, small business events, and you have a great rolodex of media contacts.</li><li>You’re a team player. You can’t wait to get to the office everyday and see what’s going on so you can figure out how to help.</li><li>You love data. When you craft a great PR story, it's always packed with juicy bits of data and you know how to track the effectiveness of a campaign.</li><li>You’re flexible and self-directed. This is a startup. Things can change quickly, and you can think fast on your feet.</li></ul>",
     "responsibilities" :   [
     "Work with the Marketing Director and CEO to imagine and execute the Storenvy PR strategy.",
     "Increase awareness and elevate the Storenvy brand through creative and traditional PR.",
