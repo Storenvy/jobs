@@ -119,34 +119,32 @@ _StorenvyJobs(
                                       Engineering
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
     "Engineering": [
-      /* Head of Engineering */
-      {
-        "title" : "Head of Engineering",
-        "permalink": "dir-of-eng'",
-        "pitch" : "Storenvy is an early-stage product-driven company changing the way people sell online and discover amazing things. Founded by a Rails engineer, we use technology and UX to empower real people to open their own online store and to connect with customers all over the world to drive them more sales.\n\nAs the Head of Engineering, you will oversee engineering team operations and ensure the team is functioning at a high level and that engineers are happy and productive. You will collaborate with Product and Design leads daily to push projects to completion. You will oversee the hiring of 10 additional engineers bring the dev team to 12. The engineering team is responsible for the continued development of the Storenvy Marketplace, Store admin panel, Store Facebook app, mobile website, Store API, and more.\n\nThis is a new role in the company and reports directly to the CEO.",
-        "responsibilities" : [
-          "Design and build the engineering team of your dreams.",
-          "Motivate individual contributors to perform the best work of their careers.",
-          "Collaborate with Product and Design leads to rapidly build product.",
-          "Estimate work and set engineering deadlines with Product team.",
-          "Create interview processes and developer challenges to filter through to attract only the best candidates and measure for culture fit.",
-          "Host hackathons & tech talks and write technical blog posts to support the local engineering culture.",
-          "Constantly evolve team efficiency and workflow.",
-          "Manage progress and ensure engineering meets all deadlines.",
-          "Continue to establish a strong engineering culture at Storenvy"
+    {
+      /* iOS Engineer */
+      "title": "Lead iOS Engineer",
+      "permalink": "lead-ios",
+      "pitch" : "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 5 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
 
-          ],
-        "requirements" : [
-            "A strong background in leading engineering teams.",
-            "4+ years experience with Ruby/Rails, MySQL, Redis, jQuery, and TDD.",
-            "A good interview process and that can identify only A+ candidates.",
-            "A tried and true routine of engineering best practices to guide the development process.",
-            "A strong network of talented engineers to source candidates from.",
-            "Great communication skills.",
-            "A passion for style, transparency, accessibility, and simplicity"
-          ],
-        "apply" : "Please send your Github account, LinkedIn profile or resume, and a note about yourself to <a href=\"mailto:jobs+engineering@storenvy.com\">jobs+engineering@storenvy.com</a>."
-      },
+      "responsibilities" :   [
+        "Own the development and maintenance of the upcoming Storenvy mobile apps.",
+        "Write test-driven, clean, maintainable code.",
+        "Constantly look for ways to improve user experience.",
+        "Work with the rest of the engineering team to improve APIs, signup flows, and much more.",
+        "Interact daily with other members of the Storenvy team to plan and execute new projects &mdash; mobile or otherwise.",
+        "Monitor success of mobile app users and help implement changes based on user feedback.",
+        "Partipate in the interview and hiring of new engineers as we grow."
+      ],
+      "requirements" : [
+        "BA/BS in Computer Science or equivalent work experience.",
+        "2+ years developing mobile applications.",
+        "Experience building and releasing iOS applications - we would love to see apps in the app store you have worked on.",
+        "Experience with REST APIs - bonus points for architecting or designing a backend for mobile application.",
+        "Excellent written and verbal communication skills. You'll work with awesome people and should enjoy communicating with them.",
+        "A passion for good UX and a love of good design.",
+        "An unquenchable thirst to help people be successful and express themselves."
+      ],
+      "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
+    },
       /*  Frontend Engineer  */
       { "title": "Front-end Engineer",
         "permalink": "frontend",
@@ -217,31 +215,5 @@ _StorenvyJobs(
         "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
     ]
 
-  },
-  {
-    /* iOS Engineer */
-    "title": "Lead iOS Engineer",
-    "permalink": "lead-ios",
-    "pitch" : "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 5 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
-
-    "responsibilities" :   [
-      "Own the development and maintenance of the upcoming Storenvy mobile apps.",
-      "Write test-driven, clean, maintainable code.",
-      "Constantly look for ways to improve user experience.",
-      "Work with the rest of the engineering team to improve APIs, signup flows, and much more.",
-      "Interact daily with other members of the Storenvy team to plan and execute new projects &mdash; mobile or otherwise.",
-      "Monitor success of mobile app users and help implement changes based on user feedback.",
-      "Partipate in the interview and hiring of new engineers as we grow."
-    ],
-    "requirements" : [
-      "BA/BS in Computer Science or equivalent work experience.",
-      "2+ years developing mobile applications.",
-      "Experience building and releasing iOS applications - we would love to see apps in the app store you have worked on.",
-      "Experience with REST APIs - bonus points for architecting or designing a backend for mobile application.",
-      "Excellent written and verbal communication skills. You'll work with awesome people and should enjoy communicating with them.",
-      "A passion for good UX and a love of good design.",
-      "An unquenchable thirst to help people be successful and express themselves."
-    ],
-    "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
   }
 );
