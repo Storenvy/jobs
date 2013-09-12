@@ -217,5 +217,31 @@ _StorenvyJobs(
         "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>." }
     ]
 
+  },
+  {
+    /* iOS Engineer */
+    "title": "Lead iOS Engineer",
+    "permalink": "lead-ios",
+    "pitch" : "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 5 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
+
+    "responsibilities" :   [
+      "Own the development and maintenance of the upcoming Storenvy mobile apps.",
+      "Write test-driven, clean, maintainable code.",
+      "Constantly look for ways to improve user experience.",
+      "Work with the rest of the engineering team to improve APIs, signup flows, and much more.",
+      "Interact daily with other members of the Storenvy team to plan and execute new projects &mdash; mobile or otherwise.",
+      "Monitor success of mobile app users and help implement changes based on user feedback.",
+      "Partipate in the interview and hiring of new engineers as we grow."
+    ],
+    "requirements" : [
+      "BA/BS in Computer Science or equivalent work experience.",
+      "2+ years developing mobile applications.",
+      "Experience building and releasing iOS applications - we would love to see apps in the app store you have worked on.",
+      "Experience with REST APIs - bonus points for architecting or designing a backend for mobile application.",
+      "Excellent written and verbal communication skills. You'll work with awesome people and should enjoy communicating with them.",
+      "A passion for good UX and a love of good design.",
+      "An unquenchable thirst to help people be successful and express themselves."
+    ],
+    "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
   }
 );
