@@ -140,7 +140,7 @@ _StorenvyJobs(
         "A passion for user experience.",
         "An unquenchable thirst to help people be successful and express themselves."
       ],
-      "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
+      "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering+ios@storenvy.com'>jobs+engineering+ios@storenvy.com</a>."
     },
       /*  Frontend Engineer  */
       { "title": "Front-end Engineer",
