@@ -130,17 +130,14 @@ _StorenvyJobs(
         "Write test-driven, clean, maintainable code.",
         "Constantly look for ways to improve user experience.",
         "Work with the rest of the engineering team to improve APIs, signup flows, and much more.",
-        "Interact daily with other members of the Storenvy team to plan and execute new projects &mdash; mobile or otherwise.",
-        "Monitor success of mobile app users and help implement changes based on user feedback.",
-        "Partipate in the interview and hiring of new engineers as we grow."
+        "Monitor success of mobile app users and help implement changes based on user feedback."
       ],
       "requirements" : [
-        "BA/BS in Computer Science or equivalent work experience.",
-        "2+ years developing mobile applications.",
-        "Experience building and releasing iOS applications - we would love to see apps in the app store you have worked on.",
-        "Experience with REST APIs - bonus points for architecting or designing a backend for mobile application.",
-        "Excellent written and verbal communication skills. You'll work with awesome people and should enjoy communicating with them.",
-        "A passion for good UX and a love of good design.",
+        "A CS degree and/or several years of experience as a software engineer.",
+        "An iOS app (or several!) in the App Store that we can take a look at.",
+        "2+ years of experience doing mobile app development.",
+        "Experience with REST APIs - bonus points for architecting or designing a backend for mobile app.",
+        "A passion for user experience.",
         "An unquenchable thirst to help people be successful and express themselves."
       ],
       "apply" : "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
