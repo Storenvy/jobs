@@ -9,10 +9,8 @@ _StorenvyJobs(
     /* PR Manager */
     "title": "PR & Communications Manager",
     "permalink": "pr",
-    "pitch" : "We're looking for an amazing storyteller - who also happens to be an experienced PR and communications pro. As Storenvy’s very first-ever PR & Communications Manager, you’ll be responsible for developing and executing PR strategies and campaigns that tell the stories of our community, our amazing store owners and our brand. You’ll report directly to the Director of Marketing & Communications and will work with the rest of the team and CEO to craft and execute PR campaigns that introduce amazing businesses the world.\n\nAbout You:<ul><li>You’re a storyteller at heart. You’re a strong communicator, and you have a drive to see your story “in lights” doing everything you can to get it there.</li><li>You're authentic and original. You have a unique point of view and have a deep personal connection to what you do.</li><li>You love PR. You think about communications strategies in your free time; you’re social and can’t imagine a day without talking to a ton of people; you think big but can act small.</li><li>You're experienced. You know how to attack seasonal commerce trends, small business events, and you have a great rolodex of media contacts.</li><li>You’re a team player. You can’t wait to get to the office everyday and see what’s going on so you can figure out how to help.</li><li>You love data. When you craft a great PR story, it's always packed with juicy bits of data and you know how to track the effectiveness of a campaign.</li><li>You’re flexible and self-directed. This is a startup. Things can change quickly, and you can think fast on your feet.</li></ul>",
+    "pitch" : "We're looking for an amazing storyteller - who also happens to be an experienced PR and communications pro. As Storenvy's very first-ever PR &amp; Communications Manager, you'll be responsible for developing and executing PR strategies and campaigns that tell the stories of our community, our amazing store owners and our brand. You’ll report directly to the Director of Marketing &amp; Communications and will work with the rest of the team and CEO to craft and execute PR campaigns that introduce amazing businesses to the world.</li></ul>",
     "responsibilities" :   [
-    "Work with the Marketing Director and CEO to imagine and execute the Storenvy PR strategy.",
-    "Increase awareness and elevate the Storenvy brand through creative and traditional PR.",
     "Pitch. Concept and execute pitches and set (and achieve) placement goals across retail, fashion, local, broadcast, tech, business, and blogger communities.",
     "Create news! With over 50,000 stores, there are a ton of great stories in our community waiting to be told so even when there doesn’t appear to be anything super exciting going on this week, it’ll be your job to prove that wrong.",
     "Know the media. Spend time building and cultivating relationships with key traditional and social media influencers and develop strategies to engage them.",
@@ -22,11 +20,12 @@ _StorenvyJobs(
     ],
     "requirements" : [
     "Bachelors degree, preferably in communications, journalism, marketing or public relations.",
-    "3-5 years of relevant PR experience with at least 2 years at an agency.",
+    "2-7 years of relevant PR experience with some time spent working at a PR agency.",
+    "Worked in PR for a tech company, ideally a successful startup. Even better if the agency you worked at specialized in PR for tech startups!",
     "A proven track record in small business and consumer PR. You’ve successfully placed stories within a wide range of traditional and new media outlets.",
     "Excellent written and verbal communication skills with excellent voice. Brand is king at Storenvy.",
-    "In-depth understanding of the traditional and social media landscapes.",
-    "E-commerce and/or fashion retail PR experience a huge plus!"
+    "E-commerce and/or fashion retail PR experience a huge plus!",
+    "In-depth understanding of the traditional and social media landscapes."
     ],
     "apply" : "To apply, please submit a cover letter, resume and a note with three reasons why you want to work at Storenvy. Also, include some thoughts on how you would approach the holiday season? Email: <a href=\"mailto:jobs+pr@storenvy.com\">jobs+pr@storenvy.com</a>"
 
