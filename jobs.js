@@ -68,35 +68,6 @@ _StorenvyJobs(
                                         Design
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
     "Design": [
-      {
-        "title" : "Lead UX Designer",
-        "permalink" : "ux",
-        "pitch" : "Storenvy was founded on the idea of bringing good user experience to e-commerce. We believe so strongly in UX that we’re creating a dedicated role for it within our small company. As the first dedicated UX designer at Storenvy, you will audit existing product flows and work with the design, engineering, and product teams to plan and build new product features to profoundly enhance the way the next generation does commerce online. You will report directly to the CEO.",
-        "responsibilities" : [
-          "Shopping: Design product and user interface flows for Storenvy’s groundbreaking social shopping experience.",
-          "Mobile: Design the UX for the upcoming Storenvy mobile apps.",
-          "Checkout: Test and tweak many different iterations of the checkout flow to find combinations that optimize conversions.",
-          "Store setup: Create interaction models and flows for quickly opening and setting up an online store. From uploading photos to customizing themes.",
-          "Work with the design team to plan new UI for Storenvy shopping and store management.",
-          "Enhance existing flows to increase usability and virality.",
-          "Talk to users and non-users to understand how they shop or run their store.",
-          "Recommend new product features to enhance user experience."
-        ],
-        "requirements" : [
-          "A strong background in web UX design and a great portfolio of past work.",
-          "A solid grasp of the varying design principles of web, mobile web, and native mobile apps.",
-          "You can jump into Firebug and edit CSS or HTML to communicate a concept or idea.",
-          "You have a passion for split-testing and testing all of your assumptions.",
-          "You understand that user experience is branding.",
-          "You pay impeccable attention to detail.",
-          "You can work closely with visual and UI designers and collaborate as part of your process.",
-          "You’re friendly and people like working with you.",
-          "You have the ability to work autonomously and hit deadlines while delivering top-tier work."
-        ],
-       "apply" : "Send links to your work, your portfolio, and your LinkedIn account along with a note about yourself to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>."
-
-      },
-
       /*  UI Designer  */
       { "title": "UI Designer",
         "permalink": "designer",
@@ -183,9 +154,9 @@ _StorenvyJobs(
 
       },
       /* Senior Rails Engineer  */
-      { "title": "Senior Rails Engineer",
-        "permalink": "sr-rails",
-        "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by hackers and love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Senior Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. You will make important technical decisions and ensure the scalability and performance of Storenvy’s applications.\n\nSee \"Responsibilities\" to the right for some of the complex engineering challenges we are working on.",
+      { "title": "Rails Engineer",
+        "permalink": "rails",
+        "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by engineers that love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. Truth be told, most of us are full-stack engineers, but we're open to finding specialists, if that's you. You will make important technical decisions, collaborate with other engineers, and ensure the scalability and performance of Storenvy’s applications.\n\nSee \"Responsibilities\" to the right for some of the complex engineering challenges we are working on.",
         "responsibilities":
          [
          "Selling: Constantly evolve the experience of creating an online store.",
@@ -202,7 +173,7 @@ _StorenvyJobs(
         ],
         "requirements":
          [
-           "4+ years experience test-driven Ruby on Rails developer.",
+           "3+ years experience test-driven Ruby on Rails developer.",
            "Experience scaling applications with Ruby, MySQL, and Redis.",
            "The ability to meet deadlines with rock-solid code.",
            "Great communication and teamwork skills.",
