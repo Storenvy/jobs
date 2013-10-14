@@ -37,7 +37,6 @@ _StorenvyJobs({
         "You love retail and online shopping.",
         "You love working with emerging brands.",
         "You have an eye for awesome products, brands and trends.  ",
-        "You stay up on style blogs and have understanding content marketing.",
         "You have some hands-on experience working with Photoshop, or other photo editing software.",
         "You have great writing skills and can help a brand tell its story.",
         "You have strong communication and organizational skills, and you have a persistent and determined approach to completing tasks.",
