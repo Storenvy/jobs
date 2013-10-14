@@ -45,8 +45,7 @@ _StorenvyJobs({
         "You’re willing to jump between a lot of different tasks to make a project successful.",
         "You're comfortable in a sales position. You don’t mind getting on the phone with a small business to interview them about what makes them special."
       ],
-      'apply': "Create a video about yourself answering the following questions:
-<ul><li>Why does this internship interest you?</li><li>What experience do you have that is relevant to Storenvy?</li><li>Tell us about yourself. What do you do for fun?</li><li>What are your favorite brands?</li><li>Anything else you’d like to add?</li></ul>Send a link to your video, your resume and a note about your interest in Storenvy and online retail to <a href=\"jobs+interns@storenvy.com\">jobs+interns@storenvy.com</a>."
+      'apply': "Create a video about yourself answering the following questions:<ul><li>Why does this internship interest you?</li><li>What experience do you have that is relevant to Storenvy?</li><li>Tell us about yourself. What do you do for fun?</li><li>What are your favorite brands?</li><li>Anything else you’d like to add?</li></ul><p>Send a link to your video, your resume and a note about your interest in Storenvy and online retail to <a href=\"jobs+interns@storenvy.com\">jobs+interns@storenvy.com</a></p>."
     }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
