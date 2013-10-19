@@ -1,33 +1,8 @@
 _StorenvyJobs({
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Marketing
+                                    Merchandising
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Marketing": [{
-      /* PR Manager */
-      "title": "PR & Communications Manager",
-      "permalink": "pr",
-      "pitch": "We're looking for an amazing storyteller - who also happens to be an experienced PR and communications pro. As Storenvy's very first-ever PR &amp; Communications Manager, you'll be responsible for developing and executing PR strategies and campaigns that tell the stories of our community, our amazing store owners and our brand. You’ll report directly to the Director of Marketing &amp; Communications and will work with the rest of the team and CEO to craft and execute PR campaigns that introduce amazing businesses to the world.</li></ul>",
-      "responsibilities": [
-        "Pitch. Concept and execute pitches and set (and achieve) placement goals across retail, fashion, local, broadcast, tech, business, and blogger communities.",
-        "Create news! With over 50,000 stores, there are a ton of great stories in our community waiting to be told so even when there doesn’t appear to be anything super exciting going on this week, it’ll be your job to prove that wrong.",
-        "Know the media. Spend time building and cultivating relationships with key traditional and social media influencers and develop strategies to engage them.",
-        "Write press releases and occasional contributed blog posts; coordinate with the CEO and leadership team to draft and publish contributed content.",
-        "Manage regular press release submission and tracking.",
-        "Identify and support speaking opportunities for company spokespersons; identify and fulfil requirements for company award submissions."
-      ],
-      "requirements": [
-        "Bachelors degree, preferably in communications, journalism, marketing or public relations.",
-        "2-7 years of relevant PR experience with some time spent working at a PR agency.",
-        "Worked in PR for a tech company, ideally a successful startup. Even better if the agency you worked at specialized in PR for tech startups!",
-        "A proven track record in small business and consumer PR. You’ve successfully placed stories within a wide range of traditional and new media outlets.",
-        "Excellent written and verbal communication skills with excellent voice. Brand is king at Storenvy.",
-        "E-commerce and/or fashion retail PR experience a huge plus!",
-        "In-depth understanding of the traditional and social media landscapes."
-      ],
-      "apply": "To apply, please submit a cover letter, resume and a note with three reasons why you want to work at Storenvy. Also, include some thoughts on how you would approach the holiday season? Email: <a href=\"mailto:jobs+pr@storenvy.com\">jobs+pr@storenvy.com</a>"
-
-    },
-
+  "Merchandising": [
     {
       'title': 'Production Intern',
       'permalink': 'interns',
