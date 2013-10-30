@@ -61,7 +61,7 @@ _StorenvyJobs({
     {
       "title": "UI Designer",
       "permalink": "designer",
-      "pitch": "Storenvy is a early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
       "responsibilities": ["Work with the team to rapidly plan, design and launch innovative new features.",
         "Own the user experience from concept to engineering to launch.",
         "Be comfortable designing for multiple platforms, including mobile web and iOS."
