@@ -4,9 +4,9 @@ _StorenvyJobs({
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Merchandising": [
     {
-      'title': 'Production Intern',
+      'title': 'Merchandising Intern',
       'permalink': 'interns',
-      'pitch': 'Storenvy is seeking full-time paid interns for the upcoming holiday season. This position would start immediately and last through the end of the year with the possibility of becoming a permanent member of our team.\n\nYou will be working on the Operations and Merchant Outreach team helping to ensure the success of Storenvy\'s 60,000 creative online stores. You will gain valuable experience related to the inner workings of an early-stage venture-backed startup while learning about online retail, small businesses, and more.',
+      'pitch': 'We\'re seeking full-time paid interns for the upcoming holiday season. This position would start immediately and last through the end of January with the possibility of becoming a permanent member of our team.\n\nYou will be working on the Merchandising and Merchant Outreach team helping to ensure the success of Storenvy\'s 60,000 creative online stores. You will gain valuable experience related to the inner workings of an early-stage venture-backed startup while learning about online retail, small businesses, and more.',
       'requirements': [
 
         "You love retail and online shopping.",
