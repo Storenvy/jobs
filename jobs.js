@@ -23,37 +23,6 @@ _StorenvyJobs({
     }
   ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Product
-    \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Product": [{
-    /* Head of Product */
-    "title": "Head of Product",
-    "permalink": "product",
-    "pitch": "We are an early-stage product-driven company that brings a consumer Internet perspective to e-commerce to empower the next generation of online store owners and artists. The Storenvy Marketplace has been live since Dec ‘12 and has already processed millions of dollars and has over 1M registered users and growing rapidly. We’re looking for an experienced Head of Product who can think both like a young consumer and a like unique small business owner. This is a high-growth opportunity which requires someone who is organized and extremely product-savvy.\n\nYou will oversee the day-to-day planning, execution, and launch of Storenvy's entire product suite. You will interface directly with the engineering and design teams as well as Directors from other teams and the CEO. This is a new senior role in the quickly growing Storenvy team and reports directly to the CEO.\n\nStorenvy has 6 products spanning many different product disciples including SaaS, social, commerce, and more. This is a unique opportunity ideal for someone who can think critically about design, engineering, and UX all at the same time. Our products include the storefront builder, the store admin panel, the store Facebook app, the Storenvy marketplace, the mobile-web marketplace experience,and our oAuth 2 API. Plus new products such as native mobile apps coming soon.\n\nWe create great product out of who we are and out of a deep understanding of the problems we're solving. You should have fantastic product instincts, know how to ask amazing questions to get to amazing answers and love great usability and design. We're making commerce authentic and accessible for everyone. So you should also have a healthy distaste for complicated or “enterprise-y” commerce software. Let's make shopping and selling more human together.",
-    "responsibilities": [
-      "Work with the team to rapidly plan, design, build, and ship amazing product.",
-      "Run daily product meetings to keep teams moving forward according to schedule.",
-      "Spearhead new native mobile app projects.",
-      "Instrument, test, and measure all important elements of the product.",
-      "Conduct split-tests within the application to test assumptions.",
-      "Request user testing and UX research information to guide product development.",
-      "Provide weekly reports of important app metrics.",
-      "Set launch timelines and deadlines with technical and design teams.",
-      "Present important launches or announcements to the board of directors."
-    ],
-    "requirements": [
-      "Experience as a senior product manager or Head of Product for a high-demand consumer web application.",
-      "Experience leading a team.",
-      "A strong innate sense of usability, design and product.",
-      "Experience working with shopping, social, online merchants or e-commerce.",
-      "You like to shop and understand how women and teenage girls shop online.",
-      "A deep appreciation for good design and can tell the difference between and “good enough” and “great” design.",
-      "You're metrics-driven. You know what behavior to measure and how to measure whether a new release worked through metrics.",
-      "You can talk technical details and understand them well. You can hack HTML & CSS in Firebug."
-    ],
-    "apply": "Send your resume or LinkedIn profile, links to your previous work, and a note about your experience to <a href='mailto:jobs+product@storenvy.com'>jobs+product@storenvy.com</a>."
-  }],
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                         Design
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Design": [
