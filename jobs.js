@@ -1,27 +1,5 @@
 _StorenvyJobs({
-  /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
-                                    Merchandising
-    \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Merchandising": [
-    {
-      'title': 'Merchandising Intern',
-      'permalink': 'interns',
-      'pitch': 'We\'re seeking full-time paid interns for the upcoming holiday season. This position would start immediately and last through the end of January with the possibility of becoming a permanent member of our team.\n\nYou will be working on the Merchandising and Merchant Outreach team helping to ensure the success of Storenvy\'s 60,000 creative online stores. You will gain valuable experience related to the inner workings of an early-stage venture-backed startup while learning about online retail, small businesses, and more.',
-      'requirements': [
 
-        "You love retail and online shopping.",
-        "You love working with emerging brands.",
-        "You have an eye for awesome products, brands and trends.  ",
-        "You have some hands-on experience working with Photoshop, or other photo editing software.",
-        "You have great writing skills and can help a brand tell its story.",
-        "You have strong communication and organizational skills, and you have a persistent and determined approach to completing tasks.",
-        "You can work on a tight deadline and make magic happen.",
-        "You’re willing to jump between a lot of different tasks to make a project successful.",
-        "You're comfortable in a sales position. You don’t mind getting on the phone with a small business to interview them about what makes them special."
-      ],
-      'apply': "Create a video about yourself answering the following questions:<ul><li>Why does this internship interest you?</li><li>What experience do you have that is relevant to Storenvy?</li><li>Tell us about yourself. What do you do for fun?</li><li>What are your favorite brands?</li><li>Anything else you’d like to add?</li></ul><p>Send a link to your video, your resume and a note about your interest in Storenvy and online retail to <a href=\"jobs+interns@storenvy.com\">jobs+interns@storenvy.com</a>.</p>"
-    }
-  ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                         Design
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/

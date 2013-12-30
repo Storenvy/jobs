@@ -3,7 +3,7 @@ Work at Storenvy, Change E-commerce
 
 ![Storenvy is now hiring!](http://f.cl.ly/items/091V1x2P0u2K1J373K3B/png.png "Stornevy is now hiring!")
 
-We are powering the next generation of online merchants and connecting them with millions of shoppers all over the world. First, Storenvy is the world's simplest online store builder powering over 40,000 stores. But instead of just a standalone store, Storenvy connects them all into a social marketplace where you can shop and discover amazing things from merchants all over the world in one place.
+We are powering the next generation of online merchants and connecting them with millions of shoppers all over the world. First, Storenvy is the world's simplest online store builder powering over 65,000 brands, stores, and artists. But instead of just a standalone store, Storenvy connects them all into a social marketplace where you can shop and discover amazing things from businesses all over the world in one place.
 
 Here's an example:
 
