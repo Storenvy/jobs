@@ -18,8 +18,8 @@ _StorenvyJobs({
       "requirements": ["You have a brilliant portfolio full of impactful branding and communications work.",
         "Collaboration is as important to you as coffee.",
         "You know how to craft a story and sell your designs so that you can push the brand forward.",
-        "You're so creative that you can think of a dozen ways to design the same thing &mdash; making it fun and easy to do split tests of campaigns."
-        "You'd rather give up your iPhone than let an imperfect design go live."
+        "You're so creative that you can think of a dozen ways to design the same thing &mdash; making it fun and easy to do split tests of campaigns.",
+        "You'd rather give up your iPhone than let an imperfect design go live.",
         "You feel lucky to be a designer and won't stop learning, sharing, and growing."
       ],
       "apply": "Send work samples, a link to your Dribbble account and a note about yourself and why you’d be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>. (Bonus points and extra love if you can share links to work you coded yourself!)"
@@ -31,7 +31,7 @@ _StorenvyJobs({
       "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
       "responsibilities": ["Work with the team to rapidly plan, design and launch innovative new features.",
         "Own the user experience from concept to engineering to launch.",
-        "Be comfortable designing for multiple platforms, including mobile web and iOS."
+        "Be comfortable designing for multiple platforms, including mobile web and iOS.",
       ],
       "requirements": ["A proven background in design with a solid portfolio that demonstrates relevant abilities.",
         "Experience designing for consumer and social web products.",
