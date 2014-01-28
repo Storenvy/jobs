@@ -8,7 +8,7 @@ _StorenvyJobs({
     {
       "title": "Communications Designer",
       "permalink": "communications-designer",
-      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
+      "pitch": "Help empower millions of shoppers and small businesses through powerful print pieces, inspiring online marketing campaigns, gorgeous email designs, and striking environmental signage.  Channel your fierce love for retail and branding through passionate online and print design collaborations with Marketing, PR, Social Media, and Product. Bring our brand to life by fixating over and polishing every tiny detail while managing the big picture of our identity.",
       "responsibilities": ["Evolve and design for the Storenvy visual brand identity.",
         "Create attention-grabbing online marketing campaigns.",
         "Collaborate with our killer Merchandising team to make exciting and expressive editorial design.",
@@ -28,7 +28,7 @@ _StorenvyJobs({
     {
       "title": "UI Designer",
       "permalink": "designer",
-      "pitch": "Help empower millions of shoppers and small businesses through powerful print pieces, inspiring online marketing campaigns, gorgeous email designs, and striking environmental signage.  Channel your fierce love for retail and branding through passionate online and print design collaborations with Marketing, PR, Social Media, and Product. Bring our brand to life by fixating over and polishing every tiny detail while managing the big picture of our identity.",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We are looking for a talented, experienced UI designer, passionate about building great products. We're building a multi-disciplinary team of designers focused on creating great experiences for our users. We believe in simplicity over power with the goal of humanizing e-commerce software for the masses and connecting people with amazing things.",
       "responsibilities": ["Work with the team to rapidly plan, design and launch innovative new features.",
         "Own the user experience from concept to engineering to launch.",
         "Be comfortable designing for multiple platforms, including mobile web and iOS."
