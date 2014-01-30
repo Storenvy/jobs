@@ -2,7 +2,7 @@ _StorenvyJobs({
 
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                         Design
-    \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
+    \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~~*/
   "Design": [
     /*  Communications Designer */
     {
@@ -18,7 +18,7 @@ _StorenvyJobs({
       "requirements": ["You have a brilliant portfolio full of impactful branding and communications work.",
         "Collaboration is as important to you as coffee.",
         "You know how to craft a story and sell your designs so that you can push the brand forward.",
-        "You're so creative that you can think of a dozen ways to design the same thing &mdash; making it fun and easy to do split tests of campaigns.",
+        "You're so creative that you can think of a dozen ways to design the same thing—making it fun and easy to do split tests of campaigns.",
         "You'd rather give up your iPhone than let an imperfect design go live.",
         "You feel lucky to be a designer and won't stop learning, sharing, and growing."
       ],
