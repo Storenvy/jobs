@@ -4,7 +4,27 @@ _StorenvyJobs({
                                         Design
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
   "Design": [
-    /*  UI Designer  */
+    /*  Communications Designer */
+    {
+      "title": "Communications Designer",
+      "permalink": "communications-designer",
+      "pitch": "Help empower millions of shoppers and small businesses through powerful print pieces, inspiring online marketing campaigns, gorgeous email designs, and striking environmental signage.  Channel your fierce love for retail and branding through passionate online and print design collaborations with Marketing, PR, Social Media, and Product. Bring our brand to life by fixating over and polishing every tiny detail while managing the big picture of our identity.",
+      "responsibilities": ["Evolve and design for the Storenvy visual brand identity.",
+        "Create attention-grabbing online marketing campaigns.",
+        "Collaborate with our killer Merchandising team to make exciting and expressive editorial design.",
+        "Manage and execute print design projects and environmental signage such as in-store graphics. (We have an awesome pop-up shop in downtown San Francisco)"
+        
+      ],
+      "requirements": ["You have a brilliant portfolio full of impactful branding and communications work.",
+        "Collaboration is as important to you as coffee.",
+        "You know how to craft a story and sell your designs so that you can push the brand forward.",
+        "You're so creative that you can think of a dozen ways to design the same thing &mdash; making it fun and easy to do split tests of campaigns.",
+        "You'd rather give up your iPhone than let an imperfect design go live.",
+        "You feel lucky to be a designer and won't stop learning, sharing, and growing."
+      ],
+      "apply": "Send work samples, a link to your Dribbble account and a note about yourself and why you'd be a good fit to <a href='mailto:jobs+design@storenvy.com'>jobs+design@storenvy.com</a>. (Bonus points and extra love if you can share links to work you coded yourself!)"
+    },
+        /*  UI Designer  */
     {
       "title": "UI Designer",
       "permalink": "designer",
