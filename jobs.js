@@ -115,7 +115,7 @@ _StorenvyJobs({
       ],
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
     }
-  ]
+  ],
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                         Community 
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~~*/
