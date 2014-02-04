@@ -149,7 +149,7 @@ _StorenvyJobs({
         "Basic HTML or CSS knowledge a huge plus."
         
       ],
-      "apply": "Send your resume, Storenvy account, writing samples, and a note about yourself and why you’d be a good fit to <a href='mailto:adam@storenvy.com'>adam@storenvy.com/a>."
+      "apply": "Send your resume, Storenvy account, writing samples, and a note about yourself and why you’d be a good fit to <a href='mailto:adam@storenvy.com'>adam@storenvy.com</a>."
     },
   ],
 });
