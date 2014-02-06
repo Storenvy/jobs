@@ -48,7 +48,7 @@ _StorenvyJobs({
       /* iOS Engineer */
       "title": "Lead iOS Engineer",
       "permalink": "lead-ios",
-      "pitch": "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 5 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
+      "pitch": "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 4 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
 
       "responsibilities": [
         "Own the development and maintenance of the upcoming Storenvy mobile apps.",
