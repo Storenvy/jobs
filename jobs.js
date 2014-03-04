@@ -24,29 +24,7 @@ _StorenvyJobs({
   /*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*\
                                       Engineering
     \*~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~*/
-  "Engineering": [{
-      /* iOS Engineer */
-      "title": "Lead iOS Engineer",
-      "permalink": "lead-ios",
-      "pitch": "The desktop web is so last year. Storenvy is headed to native mobile apps and we need your help taking us there. We have a great engineering team of 5 full-stack engineers, but we're bringing on someone to own our upcoming mobile app(s). These apps will be under constant development and will always be improving. Help us make commerce accessible to everyone and introduce amazing businesses to the world.",
-
-      "responsibilities": [
-        "Own the development and maintenance of the upcoming Storenvy mobile apps.",
-        "Write test-driven, clean, maintainable code.",
-        "Constantly look for ways to improve user experience.",
-        "Work with the rest of the engineering team to improve APIs, signup flows, and much more.",
-        "Monitor success of mobile app users and help implement changes based on user feedback."
-      ],
-      "requirements": [
-        "A CS degree and/or several years of experience as a software engineer.",
-        "An iOS app (or several!) in the App Store that we can take a look at.",
-        "2+ years of experience doing mobile app development.",
-        "Experience with REST APIs - bonus points for architecting or designing a backend for mobile app.",
-        "A passion for user experience.",
-        "An unquenchable thirst to help people be successful and express themselves."
-      ],
-      "apply": "Send your GitHub account, links to your work/apps, a note about your experience, and 3 reasons you want to work at Storenvy to <a href='mailto:jobs+engineering+ios@storenvy.com'>jobs+engineering+ios@storenvy.com</a>."
-    },
+  "Engineering": [
     /*  Frontend Engineer  */
     {
       "title": "Front-end Engineer",
