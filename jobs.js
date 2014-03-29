@@ -13,7 +13,7 @@ _StorenvyJobs({
         "Create attention-grabbing online marketing campaigns.",
         "Collaborate with our killer Merchandising team to make exciting and expressive editorial design.",
         "Manage and execute print design projects and environmental signage such as in-store graphics. (We have an awesome pop-up shop in downtown San Francisco)"
-        
+
       ],
       "requirements": ["You have a brilliant portfolio full of impactful branding and communications work.",
         "Collaboration is as important to you as coffee.",
@@ -70,7 +70,7 @@ _StorenvyJobs({
     {
       "title": "Rails Engineer",
       "permalink": "rails",
-      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by engineers that love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. Truth be told, most of us are full-stack engineers, but we're open to finding specialists, if that's you. You will make important technical decisions, collaborate with other engineers, and ensure the scalability and performance of Storenvy’s applications.\n\nSee \"Responsibilities\" to the right for some of the complex engineering challenges we are working on.",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by engineers that love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. Truth be told, most of us are full-stack engineers, but we're open to finding specialists, if that's you. You will make important technical decisions, collaborate with other engineers, and ensure the scalability and performance of Storenvy’s applications.",
       "responsibilities": [
         "Selling: Constantly evolve the experience of creating an online store.",
         "Discovery: Allow people to find products they love through social curation, algorithmic recommendation engines, and powerful search and filtering tools.",
@@ -94,5 +94,5 @@ _StorenvyJobs({
       "apply": "Send your GitHub account, links to your work and a note about your experience to <a href='mailto:jobs+engineering@storenvy.com'>jobs+engineering@storenvy.com</a>."
     }
   ],
-  
+
 });
