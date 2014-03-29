@@ -68,9 +68,9 @@ _StorenvyJobs({
     },
     /* Senior Rails Engineer  */
     {
-      "title": "Rails Engineer",
+      "title": "Full-stack Engineer (Rails)",
       "permalink": "rails",
-      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails Engineer to join our small and growing development team. We are a company founded by engineers that love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Rails Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. Truth be told, most of us are full-stack engineers, but we're open to finding specialists, if that's you. You will make important technical decisions, collaborate with other engineers, and ensure the scalability and performance of Storenvy’s applications.",
+      "pitch": "Storenvy is an early-stage product-driven company where design and engineering are core to what we do. We're hiring an experienced Ruby on Rails / Full-stack Engineer to join our small and growing development team. We are a company founded by engineers that love great code. But we also care deeply about the actual product, user experience and the way our customers use our software. \n\nAs a Full-stack Engineer, you will function as a technical lead on various Storenvy products such as the Storenvy Marketplace, the Storenvy API or the Storenvy mobile experience. Truth be told, most of us are full-stack engineers, but we're open to finding specialists, if that's you. You will make important technical decisions, collaborate with other engineers, and ensure the scalability and performance of Storenvy’s applications.",
       "responsibilities": [
         "Selling: Constantly evolve the experience of creating an online store.",
         "Discovery: Allow people to find products they love through social curation, algorithmic recommendation engines, and powerful search and filtering tools.",
