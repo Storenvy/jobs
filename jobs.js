@@ -55,4 +55,43 @@ _StorenvyJobs({
     }
   ],
 
+  "Business": [
+/*  EA / Office Manager  */
+
+    {
+     "title": "Executive Assistant / Office Manager",
+     "permalink": "ea",
+     "pitch": "Storenvy is hiring an experienced, creative professional to serve as Executive Assistant and Office Manager for our growing startup. We are a team of 20, making it easier and more social for the world to discover small and special retail businesses all over the world. You'll play a core role in the development of the culture and working style of our growing organization. Storenvy has raised over $6.5m and is poised to see substantial growth over the next few years.",
+     "responsibilities" : [
+"Work directly with the CEO who is just a fantastic guy. You'll serve as his right hand (read: \"new BFF!\")",
+"Manage all office administrative tasks.",
+"Manage CEO's professional and personal calendar.",
+"Host guests in the office and make them feel like a million bucks when visiting.",
+"Onboard new employees serving as their point of contact for HR questions.",
+"Keep the office stocked with supplies and goodies for our engineers' hungry little food holes.",
+"Develop and maintain the office and team culture both daily with your fantastic attitude and also with events such as parties, breakdance contests (Yes, please!), or in-office traditions that we come up with together.",
+"Pay bills, work with accountants, review contracts, and fulfill board requests.",
+"Make the office feel like \"Storenvy\" throughout (decor, organization, etc.)"
+     ],
+     "requirements" : [
+"You're authentically positive and it shows. You put others in a good mood each and every day.",
+"You're helpful and anticipate other people's needs.",
+"You're clever, funny, creative, and spontaneous. The Storenvy culture is built on surprise and delight, so bring it!",
+"You're incredibly organized and love introducing process that helps others be more efficient.",
+"You're game to tackle any challenge that gets thrown at you -- even if you've never done it before.",
+"You have great taste. You can pick out great music, decorate a space well, or plan a team offsite that everyone will enjoy.",
+"You work well under pressure, take your job very seriously, and don't mind getting the occasional request on evenings or weekends.",
+"You thrive in an ever-changing role but also see the value in repeated administrative tasks.",
+"You love shopping, small businesses, and startup culture.",
+"Most importantly: You love what you do!",
+"2+ years as an Office Manager or Executive Assistant.",
+"Excellent written and verbal communication skills.",
+"Experience with Google Docs and Apple iWork and basic accounting software.",
+"Basic design skills such as Keynote slideshow design.",
+"Experience with HR and payroll support."
+     ]
+
+    }
+  ]
+
 });
