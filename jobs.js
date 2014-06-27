@@ -88,10 +88,10 @@ _StorenvyJobs({
 "Excellent written and verbal communication skills.",
 "Experience with Google Docs and Apple iWork and basic accounting software.",
 "Basic design skills such as Keynote slideshow design.",
-"Experience with HR and payroll support."
-     ]
-
+"Experience with HR and payroll support.",
+"Most importantly: You love what you do!"
+     ],
+     "apply": "Submit your info and a link to your video here: <a href='https://storenvy.wufoo.com/forms/storenvy-office-manager-executive-assistant/'>https://storenvy.wufoo.com/forms/storenvy-office-manager-executive-assistant/</a>"
     }
   ]
-
 });
