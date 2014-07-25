@@ -131,11 +131,11 @@ _StorenvyJobs({
     'responsibilities' : [
       'Be the first point of contact on all support responsibilities through our online support system and email.',
       'Respond to hundreds of shopper and merchant support requests each week.',
-      'Work closely with the Community Director to quickly care for customer concerns.'
-      'Quickly respond to customer support inquiries in less than 24 hours.'
-      'Create or recommend support systems and flows that cut down on the customer support workload.'
-      'Create support articles, blog posts, and screencasts in response to common support requests.'
-      'Work with the product, engineering and design teams to address user concerns.'
+      'Work closely with the Community Director to quickly care for customer concerns.',
+      'Quickly respond to customer support inquiries in less than 24 hours.',
+      'Create or recommend support systems and flows that cut down on the customer support workload.',
+      'Create support articles, blog posts, and screencasts in response to common support requests.',
+      'Work with the product, engineering and design teams to address user concerns.',
       'Create support articles, blog posts, and screencasts in response to common support requests.'
     ],
     'requirements' : [
