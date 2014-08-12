@@ -123,38 +123,5 @@ _StorenvyJobs({
   }
   ],
   
-  "Community Support": [
-  {
-    "title" : "Community Support",
-    "permalink" : 'support',
-    'pitch' : "We’re looking for a Community Support rock star that has strong communication skills, a passion for creative businesses and helping people and a magnetic personality. You'll be on deck for handling both customer and merchant support responsibilities and report directly to our Community Director. You must know the ecommerce space well and have command of the Storenvy platform. Storenvy users love us because we love them back -- that should come through in the tone of every support message you write. (Even when it's in reply to the occasional all-caps mother-loving “WTF” email.) This is an opportunity to join a small yet growing team that is making a difference in the world.",
-    'responsibilities' : [
-      'Be the first point of contact on all support responsibilities through our online support system and email.',
-      'Respond to hundreds of shopper and merchant support requests each week.',
-      'Work closely with the Community Director to quickly care for customer concerns.',
-      'Quickly respond to customer support inquiries in less than 24 hours.',
-      'Create or recommend support systems and flows that cut down on the customer support workload.',
-      'Create support articles, blog posts, and screencasts in response to common support requests.',
-      'Work with the product, engineering and design teams to address user concerns.',
-      'Create support articles, blog posts, and screencasts in response to common support requests.'
-    ],
-    'requirements' : [
-      "Excellent written communication skills and a stickler for grammar.",
-      "An uncanny ability to turn a negative situation into a positive one.",
-      "Extreme patience and the ability to remain cool under pressure.",
-      "Willing to put out fires on evenings, weekends, and holidays.",
-      "A love for people and for “Inbox Zero”.",
-      "Extensive experience as an online merchant.",
-      "Ability to understand technical questions merchants may ask about customizing his/her store.",
-      "Strong ability to stay on track while constantly multi-tasking.",
-      "Basic graphic design skills.",
-      "Enough personality to fill a room.",
-      "Experience with Desk.com is a plus.",
-      "Basic HTML or CSS knowledge a huge plus.",
-      
-    ],
-    'apply' : "Send your resume, Storenvy account, writing samples, and a note about yourself and why you’d be a good fit to <a href='mailto:adam@storenvy.com'>adam@storenvy.com</a>"
-  }
-  ]
   
 });
