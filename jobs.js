@@ -121,7 +121,5 @@ _StorenvyJobs({
     ],
     'apply' : 'Send a note, your LinkedIn, design portfolio, and links to apps you\'ve design to <a href="mailto:jobs+design@storenvy.com">jobs+design@storenvy.com</a>'
   }
-  ],
-  
-  
+  ]
 });
